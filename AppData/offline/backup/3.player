@@ -1,0 +1,1049 @@
+{
+  "player_slot": 3,
+  "appear_player": {
+    "EntityId": "2e332e5f-a41d-4dc3-9c85-ad893581ecc5",
+    "EntityType": 1000,
+    "IsAlive": true,
+    "Name": "Van",
+    "Freq": 0,
+    "Level": 60,
+    "Title": {
+      "EntityId": "2e332e5f-a41d-4dc3-9c85-ad893581ecc5",
+      "TitleId": null,
+      "_Title": ""
+    },
+    "Member": {
+      "EntityId": "2e332e5f-a41d-4dc3-9c85-ad893581ecc5",
+      "ClanId": "",
+      "ClanName": "",
+      "RoleId": -1,
+      "ApplyingClanId": null
+    },
+    "Display": {
+      "EntityId": "2e332e5f-a41d-4dc3-9c85-ad893581ecc5",
+      "DefaultBody": "Models/PC/Female/Body/f_body_nothing.FBX",
+      "DefaultInner": "Models/PC/Female/Inner/f_inner_basic.FBX",
+      "DefaultHead": null,
+      "DefaultHair": null,
+      "Hair": null,
+      "Body": "Models/PC/Male/Body/m_body_hoody.fbx",
+      "Head": null,
+      "Equip": null,
+      "Beard": null,
+      "BodyColor": [
+        "703D2E",
+        "444F58",
+        "F0F0F0"
+      ],
+      "HeadColor": [
+        "6C503D",
+        "00FF00",
+        "0000FF"
+      ],
+      "EquipColor": null,
+      "SkinColor": "E8CECE",
+      "HairColor": "5F4D31",
+      "EyeColor": "C6F3F6",
+      "LipColor": "DD765E",
+      "Portrait": 5,
+      "PortraitBg": 2,
+      "PortraitBgColor": "B6926F",
+      "PortraitIcon": null,
+      "VoiceType": 5,
+      "BodySize": 0.9627015,
+      "Invisible": false,
+      "WeaponInfo": {
+        "Projectile": null,
+        "ProjectileSpeed": null,
+        "DetonateDelay": null,
+        "WeaponFramework": null
+      },
+      "BoardingOn": 0,
+      "BoardingTime": {
+        "Since": null,
+        "Until": null
+      },
+      "VehicleEntityId": null,
+      "Accessory": null
+    },
+    "Move": {
+      "EntityId": "2e332e5f-a41d-4dc3-9c85-ad893581ecc5",
+      "Movements": [
+        {
+          "MotionName": "Barehand_Stand",
+          "MotionOption": 34,
+          "PlaybackRate": 1.0,
+          "RotSpeed": 540.0,
+          "Path": [
+            {
+              "Position": {
+                "x": 24668.0,
+                "y": 13198.0
+              },
+              "Yaw": 191.102722,
+              "Time": 1584810231.1063142,
+              "Floor": 0,
+              "Height": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "Survival": {
+      "EntityId": "2e332e5f-a41d-4dc3-9c85-ad893581ecc5",
+      "Life": {
+        "min": 0.0,
+        "max": 100.0,
+        "cur": 100.0
+      },
+      "Gauges": {
+        "stamina": {
+          "min": 0.0,
+          "max": 100.0,
+          "cur": 100.0
+        },
+        "fatigue": {
+          "min": 0.0,
+          "max": 100.0,
+          "cur": 0.0
+        }
+      }
+    },
+    "Musician": null,
+    "RescueRequested": false
+  },
+  "player_info": {
+    "player_level": 60,
+    "disconnected_at": 1584809186.3942249,
+    "player_name": "Van",
+    "player_entity_id": "2e332e5f-a41d-4dc3-9c85-ad893581ecc5",
+    "deletes_at": null
+  },
+  "inventory_items": [
+    {
+      "Id": "79218f69-7c43-4351-9b2c-1a8df01baaad",
+      "Name": "Tracksuit",
+      "Description": "Basic outfit for a job seeker. \"And if you check my 'skills' section, you'll see I'm quite the expert at carnosaur avoidance.\"",
+      "Icon": "clothes_hoody",
+      "SubIcon": null,
+      "Prototype": "clothes_jobless",
+      "Level": 1,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "703D2E",
+      "ColorG": "444F58",
+      "ColorB": "F0F0F0",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 1
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 1
+        },
+        {
+          "Id": "modern_jobless",
+          "Level": 1
+        },
+        {
+          "Id": "clothes",
+          "Level": 1
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_hoody.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_hoody.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "864f3427-2665-4fab-a24f-6a1cce3dc0bb",
+      "Name": "Wall Candle",
+      "Description": "Wall candle that can be used to light sectional buildings. \"All we need now is a lavender scent.\"",
+      "Icon": "torch_02_wall",
+      "SubIcon": null,
+      "Prototype": "torch_02_wall_wood",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "41392C",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "wall_deco",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "torch_02_wall_wood"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "23a76514-2f45-4fb0-9519-a23482ba56cc",
+      "Name": "Grape Seed",
+      "Description": "Seeds that can sprout grapes. Suitable for large fields. ",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "grape_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "4F1266",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "c2d0a31d-5bbb-4eef-88da-aa9a0c99835f",
+      "Name": "Apple Seed",
+      "Description": "Grows apples. Suitable for large fields. \"Even if I knew the world would end tomorrow, I'd plant an apple tree today.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "apple_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "B31F23",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "eaed9709-cc2b-4199-825c-cf5162b198f7",
+      "Name": "Mango Seed",
+      "Description": "Grows mango. Suitable for large fields. \"If the snake really wanted to tempt Eve, it should have used a mango.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "mango_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "C3B969",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "eatable",
+          "Level": 60
+        },
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "0d12635c-f1e0-4366-b95b-fd3278f43238",
+      "Name": "Sunflower Seed",
+      "Description": "Grows sunflowers. Suitable for large fields",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "sunflower_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "ECDC52",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "eb7f3e9b-8b20-461d-9a5b-771886f2c382",
+      "Name": "Banana Seed",
+      "Description": "Grows bananas. Suitable for large fields. \"Wild bananas are full of seeds, unlike the mutant ones we ate on Earth.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "banana_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "FFFF33",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "3bfeeeec-23e5-444c-865e-f0d5559995a6",
+      "Name": "Purple Tulip Seed",
+      "Description": "Bulb that can sprout purple tulips. Suitable for small fields.",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "violettulip_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "704C8A",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "d0159cbf-b49a-4562-80c2-6f0614741500",
+      "Name": "Hinged Leather Door",
+      "Description": "Hinged leather door that can be used to enter and exit sectional buildings. \"The padding is great for preventing injuries.\"",
+      "Icon": "door_02_leather",
+      "SubIcon": null,
+      "Prototype": "door_03_wood_leather",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 4,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "5F574C",
+      "ColorG": "5F574C",
+      "ColorB": "5F574C",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "door",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "modular_door_03_leather"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "4a7ec177-8503-44fb-939b-3d94673532c9",
+      "Name": "Weak Wooden Door",
+      "Description": "Poorly constructed wooden door that can be used to enter and exit sectional buildings. \"Beware of strong breezes.\"",
+      "Icon": "door_01_wood",
+      "SubIcon": null,
+      "Prototype": "door_02_wood",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 4,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "524739",
+      "ColorG": "524739",
+      "ColorB": "524739",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "door",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "modular_door_02_wood"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "f06eea6f-ba2e-40ed-9429-fba03b4d0098",
+      "Name": "Steel Door",
+      "Description": "Steel door that can be used to enter and exit sectional buildings. \"Nobody will be tearing this door down for firewood. Ha!\"",
+      "Icon": "door_03_metal",
+      "SubIcon": null,
+      "Prototype": "door_02_steel",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 4,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "AAA29D",
+      "ColorG": "AAA29D",
+      "ColorB": "AAA29D",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "door",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "modular_door_02_steel"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "0045cd16-0b7e-44c6-8750-f03749a48425",
+      "Name": "Damask Rose Seed",
+      "Description": "Grows Damask roses. Suitable for large fields",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "rose_damask_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "A33161",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "dae755b7-4666-4280-bf10-28fe01ffd477",
+      "Name": "Jasmine Seed",
+      "Description": "Grows jasmine. Suitable for flower beds and small fields. \"The name for this plant comes from Persian, in which it means 'God's gift.'\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "jasmine_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "F8F8FF",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "eatable",
+          "Level": 60
+        },
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "419c49be-66c6-47b6-b940-e47eb6ca4285",
+      "Name": "Oxalis Seed",
+      "Description": "Grows oxalis. Suitable for fields. \"Even seeds can drown.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "oxalis_seed_blue",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "443076",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "vegetable",
+          "Level": 60
+        },
+        {
+          "Id": "oxalis_blue",
+          "Level": 60
+        },
+        {
+          "Id": "eatable",
+          "Level": 60
+        },
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "6975c2e7-5ac4-40e6-9593-47e80ab41b28",
+      "Name": "Oxalis Seed",
+      "Description": "Grows oxalis. Suitable for fields. \"Even seeds can drown.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "oxalis_seed_red",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "C30F3E",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "vegetable",
+          "Level": 60
+        },
+        {
+          "Id": "oxalis_red",
+          "Level": 60
+        },
+        {
+          "Id": "eatable",
+          "Level": 60
+        },
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "35ec0658-e110-47d5-b808-9e19995f2ac9",
+      "Name": "Oxalis Seed",
+      "Description": "Grows oxalis. Suitable for fields. \"Even seeds can drown.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "oxalis_seed_yellow",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "F3CC00",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "vegetable",
+          "Level": 60
+        },
+        {
+          "Id": "oxalis_yellow",
+          "Level": 60
+        },
+        {
+          "Id": "eatable",
+          "Level": 60
+        },
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "4bdce2e0-696d-4137-b97d-601e34a6ba4e",
+      "Name": "Mr. Lincoln Rose Seed",
+      "Description": "Grows Mr. Lincoln roses. Suitable for small fields.",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "rose_misterlincoln_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "B16582",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "33d10165-1885-4e74-bf8b-111be9058c03",
+      "Name": "Maple Tree Seed",
+      "Description": "Grows a maple tree. Suitable for large fields",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "mapletree_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "CC6D63",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "b3529391-d299-4c9c-b0ef-6f2be1aa92b6",
+      "Name": "Ginkgo Tree Seed",
+      "Description": "Grows a gingko tree. Suitable for large fields",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "ginkgotree_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "DDB16E",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "1c761131-8c8a-4ea2-9bcd-d299d4fdcabd",
+      "Name": "Taro Seed",
+      "Description": "Grows taro. Suitable for fields. \"Some are buried in dirt when they die. Others are born from it.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "taro_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "93804D",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "vegetable",
+          "Level": 60
+        },
+        {
+          "Id": "eatable",
+          "Level": 60
+        },
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    }
+  ],
+  "equipped_items": {
+    "body": "79218f69-7c43-4351-9b2c-1a8df01baaad"
+  },
+  "musics": null,
+  "storage": {
+    "encyclopedia": "eyJNZW1vIjp7Ik1lbW9zIjpbeyJLZXkiOjEsIlZhbHVlIjpbMCwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Myw1NCw1NSw1Niw1Nyw1OCw1OSw2MCw2MSw2Miw2Myw2NCw2NSw2Niw2Nyw2OCw2OSw3MCw3MSw3Miw3Myw3NCw3NSw3Niw3Nyw3OCw3OSw4MCw4MSw4Miw4Myw4NCw4NSw4Niw4Nyw4OCw4OSw5MCw5MSw5Miw5Myw5NCw5NSw5Niw5Nyw5OCw5OSwxMDAsMTAxLDEwMiwxMDMsMTA0LDEwNSwxMDYsMTA3LDEwOCwxMDksMTEwLDExMSwxMTIsMTEzLDExNCwxMTUsMTE2LDExNywxMTgsMTE5LDEyMCwxMjEsMTIyLDEyMywxMjQsMTI1LDEyNiwxMjcsMTI4LDEyOSwxMzAsMTMxLDEzMiwxMzMsMTM0LDEzNSwxMzYsMTM3LDEzOCwxMzksMTQwLDE0MSwxNDIsMTQzLDE0NCwxNDUsMTQ2LDE0NywxNDgsMTQ5LDE1MCwxNTEsMTUyLDE1MywxNTQsMTU1LDE1NiwxNTcsMTU4LDE1OSwxNjAsMTYxLDE2MiwxNjMsMTY0LDE2NSwxNjYsMTY3LDE2OCwxNjksMTcwLDE3MSwxNzIsMTczLDE3NCwxNzUsMTc2LDE3NywxNzgsMTc5LDE4MCwxODEsMTgyLDE4MywxODQsMTg1LDE4NiwxODcsMTg4LDE4OSwxOTAsMTkxLDE5MiwxOTMsMTk0LDE5NSwxOTYsMTk3LDE5OCwxOTksMjAwLDIwMSwyMDIsMjAzLDIwNCwyMDUsMjA2LDIwNywyMDgsMjA5LDIxMCwyMTEsMjEyLDIxMywyMTQsMjE1LDIxNiwyMTcsMjE4LDIxOSwyMjAsMjIxLDIyMiwyMjMsMjI0LDIyNSwyMjYsMjI3XX0seyJLZXkiOjAsIlZhbHVlIjpbMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAsMzEsMzIsMzMsMzQsMzUsMzYsMzcsMzgsMzksNDAsNDEsNDMsNDQsNDUsNDYsNDcsNDgsNDksNTAsNTEsNTIsNTMsNTQsNTUsNTYsNTcsNTgsNTksNjAsNjEsNjIsNjMsNjQsNjUsNjYsNjcsNjgsNjksNzAsNzEsNzIsNzMsNzQsNzUsNzYsNzcsNzgsNzksODAsODEsODIsODMsODQsODUsODYsODcsODgsODksOTAsOTEsOTIsOTMsOTQsOTUsOTYsOTcsOTgsOTksMTAwLDEwMSwxMDIsMTAzLDEwNCwxMDUsMTA2LDEwNywxMDgsMTA5LDExMCwxMTEsMTEyLDExMywxMTQsMTE1LDExNiwxMTcsMTE4LDExOSwxMjAsMTIxLDEyMiwxMjMsMTI0LDEyNSwxMjYsMTI3LDEyOCwxMjksMTMwLDEzMSwxMzIsMTMzLDEzNCwxMzUsMTM2LDEzNywxMzgsMTM5LDE0MCwxNDEsMTQyLDE0MywxNDQsMTQ1LDE0NiwxNDcsMTQ4LDE0OSwxNTAsMTUxLDE1MiwxNTMsMTU0LDE1NSwxNTYsMTU3LDE1OCwxNTksMTYwLDE2MSwxNjIsMTYzLDE2NCwxNjUsMTY2LDE2NywxNjgsMTY5LDE3MCwxNzEsMTcyLDE3MywxNzQsMTc1LDE3NiwxNzcsMTc4LDE3OSwxODAsMTgxLDE4MiwxODMsMTg0LDE4NSwxODYsMTg3LDE4OCwxODksMTkwLDE5MSwxOTIsMTkzLDE5NCwxOTUsMTk2LDE5NywxOTgsMTk5LDIwMCwyMDEsMjAyLDIwMywyMDQsMjA1LDIwNiwyMDcsMjA4LDIwOSwyMTAsMjExLDIxMiwyMTMsMjE0LDIxNSwyMTYsMjE3LDIxOCwyMTksMjIwLDIyMSwyMjIsMjIzLDIyNCwyMjUsMjI2LDIyNywyMjgsMjI5LDIzMCwyMzEsMjMyLDIzMywyMzQsMjM1LDIzNiwyMzcsMjM4LDIzOSwyNDAsMjQxLDI0MiwyNDNdfV19fQ==",
+    "editable_guide_progress": "eyJDb21wbGV0ZWRFdmVudHMiOnsibm9ybWFsX2Zsb3ciOlsiY2hhcmxpZXNfd2VsY29tZV9lZGl0YWJsZSIsInN5c3RlbV9pbmZvX2VkaXRhYmxlIiwiYmxhbmsiXX0sIkxhc3REb2dQT0lUaWxlIjp7IngiOjAuMCwieSI6MC4wLCJtYWduaXR1ZGUiOjAuMCwic3FyTWFnbml0dWRlIjowLjB9LCJMYXN0RG9nR3VpZGVTdGF0ZSI6MCwiTGFzdFJldHVybmVyQ291bnQiOjAsIkxhc3ROb21hZENvdW50IjowfQ==",
+    "platform_achievement": "AAEAAAAAAAAAAAA="
+  }
+}

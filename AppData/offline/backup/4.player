@@ -1,0 +1,552 @@
+{
+  "player_slot": 4,
+  "appear_player": {
+    "EntityId": "d8a3d684-766b-4fbf-a278-5344acc1a35c",
+    "EntityType": 1001,
+    "IsAlive": true,
+    "Name": "윤시우",
+    "Freq": 0,
+    "Level": 60,
+    "Title": {
+      "EntityId": "d8a3d684-766b-4fbf-a278-5344acc1a35c",
+      "TitleId": "fsa32fgb-gf9v-87vd-vt0s-djcxuiac0762mn",
+      "_Title": "영원한 개척자"
+    },
+    "Member": {
+      "EntityId": "d8a3d684-766b-4fbf-a278-5344acc1a35c",
+      "ClanId": "",
+      "ClanName": "",
+      "RoleId": -1,
+      "ApplyingClanId": null
+    },
+    "Display": {
+      "EntityId": "d8a3d684-766b-4fbf-a278-5344acc1a35c",
+      "DefaultBody": "Models/PC/Female/Body/f_body_nothing.FBX",
+      "DefaultInner": "Models/PC/Female/Inner/f_inner_basic.FBX",
+      "DefaultHead": null,
+      "DefaultHair": null,
+      "Hair": "Models/PC/Female/Hair/f_hair_longwave",
+      "Body": "Models/PC/Female/Body/f_body_police.FBX",
+      "Head": "Models/PC/Female/Head/f_head_police_02.FBX",
+      "Equip": "Models/Equipment/Melee/hammer_onehand_paw01.fbx",
+      "Beard": null,
+      "BodyColor": [
+        "C7D9D7",
+        "513934",
+        "D6D6D0"
+      ],
+      "HeadColor": [
+        "4B3F30",
+        "EDE7D9",
+        "4B3F30"
+      ],
+      "EquipColor": [
+        "CC3F00",
+        "F9C4B0",
+        "3C3131"
+      ],
+      "SkinColor": "F7DFE2",
+      "HairColor": "D0A887",
+      "EyeColor": "221918",
+      "LipColor": "FFA2A3",
+      "Portrait": 4,
+      "PortraitBg": 1,
+      "PortraitBgColor": "6D523B",
+      "PortraitIcon": null,
+      "VoiceType": 5,
+      "BodySize": 0.8588602,
+      "Invisible": false,
+      "WeaponInfo": {
+        "Projectile": null,
+        "ProjectileSpeed": null,
+        "DetonateDelay": null,
+        "WeaponFramework": "onehand"
+      },
+      "BoardingOn": 0,
+      "BoardingTime": {
+        "Since": null,
+        "Until": null
+      },
+      "VehicleEntityId": null,
+      "Accessory": null
+    },
+    "Move": {
+      "EntityId": "d8a3d684-766b-4fbf-a278-5344acc1a35c",
+      "Movements": [
+        {
+          "MotionName": "Avatar_Blueprint",
+          "MotionOption": 34,
+          "PlaybackRate": 1.0,
+          "RotSpeed": 540.0,
+          "Path": [
+            {
+              "Position": {
+                "x": 31552.0,
+                "y": 8867.0
+              },
+              "Yaw": 184.0265,
+              "Time": 1584370026.2482638,
+              "Floor": 0,
+              "Height": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "Survival": {
+      "EntityId": "d8a3d684-766b-4fbf-a278-5344acc1a35c",
+      "Life": {
+        "min": 737.0,
+        "max": 843.0,
+        "cur": 737.0
+      },
+      "Gauges": {
+        "stamina": {
+          "min": 167.0,
+          "max": 167.0,
+          "cur": 212.0
+        },
+        "fatigue": {
+          "min": 0.0,
+          "max": 100.0,
+          "cur": 32.0
+        }
+      }
+    },
+    "Musician": null,
+    "RescueRequested": false
+  },
+  "player_info": {
+    "player_level": 55,
+    "disconnected_at": 1584369859.265837,
+    "player_name": "윤시우",
+    "player_entity_id": "d8a3d684-766b-4fbf-a278-5344acc1a35c",
+    "deletes_at": null
+  },
+  "inventory_items": [
+    {
+      "Id": "5ead6139-493d-4941-8278-50c6555829d2",
+      "Name": "운동복",
+      "Description": "취업 준비생의 기본 복장. \"어디든 갈 준비가 되어 있다.\"",
+      "Icon": "clothes_hoody",
+      "SubIcon": null,
+      "Prototype": "clothes_jobless",
+      "Level": 1,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "43A3C3",
+      "ColorG": "6E6E6E",
+      "ColorB": "3C4568",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 1
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 1
+        },
+        {
+          "Id": "modern_jobless",
+          "Level": 1
+        },
+        {
+          "Id": "clothes",
+          "Level": 1
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_hoody.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_hoody.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "c549f104-2686-4dab-a868-941b1d77e0d9",
+      "Name": "경찰제복 외형장비",
+      "Description": "현대에서 온 경찰제복. 다른 옷 위에 입을 수 있다. \"야생의 자연법칙도 법의 집행자가 필요하다.\"",
+      "Icon": "clothes_police",
+      "SubIcon": null,
+      "Prototype": "clothes_police_avatar_store",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "C7D9D7",
+      "ColorG": "513934",
+      "ColorB": "D6D6D0",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "equipment_avatar",
+          "Level": 60
+        },
+        {
+          "Id": "clothes",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_police.FBX",
+            "male_model": "Models/PC/Male/Body/m_body_police.FBX",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "341296dc-c3b3-45d4-b4da-dc8dfada9e7d",
+      "Name": "경찰모",
+      "Description": "현대에서 온 경찰모. \"정의를 쓴다.\"",
+      "Icon": "hat_police",
+      "SubIcon": null,
+      "Prototype": "hat_police_store",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "4B3F30",
+      "ColorG": "EDE7D9",
+      "ColorB": "4B3F30",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "hat",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Head/f_head_police_02.FBX",
+            "male_model": "Models/PC/Male/Head/m_head_police_02.FBX",
+            "slot": "head"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "948b3d9a-63ad-46c5-98aa-de422ca4565f",
+      "Name": "윤시우의 사과",
+      "Description": "먹을 수 없지만 특별해 보이는 사과. <em>품</em> 안에 간직하자. <em>\"함께 해주셔서 고맙습니다.\"</em>",
+      "Icon": "icon_apple_sunset",
+      "SubIcon": null,
+      "Prototype": "apple_sunset",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "B6001F",
+      "ColorG": "E9B053",
+      "ColorB": "4B7607",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "pocket",
+          "Level": 60
+        },
+        {
+          "Id": "max_energy_incr",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "dd83ba6e-7aaa-4af4-b553-f6a449266b38",
+      "Name": "[이벤트] 승차권",
+      "Description": "기차와 함께 워프된 종이 조각. \"달라진 목적지가 싫지만은 않다.\" ",
+      "Icon": "event_ticket",
+      "SubIcon": null,
+      "Prototype": "event_train_ticket",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "BAA175",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "c40a5d41-a215-4025-a998-587752a97393",
+      "Name": "페나코두스 발망치",
+      "Description": "페나코두스의 발을 형상화한 한 손 둔기. \"수많은 가정사로 인해 발굽이 붙기고 하고 갈라지기도 한다.\"",
+      "Icon": "weapon_hammer_onehand_paw01",
+      "SubIcon": null,
+      "Prototype": "hammer_onehand_phenacodus",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "CC3F00",
+      "ColorG": "F9C4B0",
+      "ColorB": "3C3131",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "weapon",
+          "Level": 60
+        },
+        {
+          "Id": "hammer_onehand",
+          "Level": 60
+        },
+        {
+          "Id": "blunt_onehand",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "weapon",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "weapon_framework": "onehand",
+            "model": "Models/Equipment/Melee/hammer_onehand_paw01.fbx",
+            "slot": "main"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "9a8d865e-8b49-48cc-a484-d32283be452c",
+      "Name": "페나코두스 주머니",
+      "Description": "페나코두스 모양의 주머니. \"인간 모양의 가방을 매고 다니는 페나코두스를 본 적이 있습니까?\"",
+      "Icon": "bag_phenacodus",
+      "SubIcon": null,
+      "Prototype": "bag_phenacodus",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "C17807",
+      "ColorG": "F7E094",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "bag",
+          "Level": 60
+        },
+        {
+          "Id": "pocket",
+          "Level": 15
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "bag"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    }
+  ],
+  "equipped_items": {
+    "body": "c549f104-2686-4dab-a868-941b1d77e0d9",
+    "head": "341296dc-c3b3-45d4-b4da-dc8dfada9e7d",
+    "precious": "dd83ba6e-7aaa-4af4-b553-f6a449266b38",
+    "bag": "9a8d865e-8b49-48cc-a484-d32283be452c",
+    "main": "c40a5d41-a215-4025-a998-587752a97393"
+  },
+  "musics": null,
+  "storage": {
+    "encyclopedia": "eyJNZW1vIjp7Ik1lbW9zIjpbeyJLZXkiOjEsIlZhbHVlIjpbMCwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Myw1NCw1NSw1Niw1Nyw1OCw1OSw2MCw2MSw2Miw2Myw2NCw2NSw2Niw2Nyw2OCw2OSw3MCw3MSw3Miw3Myw3NCw3NSw3Niw3Nyw3OCw3OSw4MCw4MSw4Miw4Myw4NCw4NSw4Niw4Nyw4OCw4OSw5MCw5MSw5Miw5Myw5NCw5NSw5Niw5Nyw5OCw5OSwxMDAsMTAxLDEwMiwxMDMsMTA0LDEwNSwxMDYsMTA3LDEwOCwxMDksMTEwLDExMSwxMTIsMTEzLDExNCwxMTUsMTE2LDExNywxMTgsMTE5LDEyMCwxMjEsMTIyLDEyMywxMjQsMTI1LDEyNiwxMjcsMTI4LDEyOSwxMzAsMTMxLDEzMiwxMzMsMTM0LDEzNSwxMzYsMTM3LDEzOCwxMzksMTQwLDE0MSwxNDIsMTQzLDE0NCwxNDUsMTQ2LDE0NywxNDgsMTQ5LDE1MCwxNTEsMTUyLDE1MywxNTQsMTU1LDE1NiwxNTcsMTU4LDE1OSwxNjAsMTYxLDE2MiwxNjMsMTY0LDE2NSwxNjYsMTY3LDE2OCwxNjksMTcwLDE3MSwxNzIsMTczLDE3NCwxNzUsMTc2LDE3NywxNzgsMTc5LDE4MCwxODEsMTgyLDE4MywxODQsMTg1LDE4NiwxODcsMTg4LDE4OSwxOTAsMTkxLDE5MiwxOTMsMTk0LDE5NSwxOTYsMTk3LDE5OCwxOTksMjAwLDIwMSwyMDIsMjAzLDIwNCwyMDUsMjA2LDIwNywyMDgsMjA5LDIxMCwyMTEsMjEyLDIxMywyMTQsMjE1LDIxNiwyMTcsMjE4LDIxOSwyMjAsMjIxLDIyMiwyMjMsMjI0LDIyNSwyMjYsMjI3XX0seyJLZXkiOjAsIlZhbHVlIjpbMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAsMzEsMzIsMzMsMzQsMzUsMzYsMzcsMzgsMzksNDAsNDEsNDMsNDQsNDUsNDYsNDcsNDgsNDksNTAsNTEsNTIsNTMsNTQsNTUsNTYsNTcsNTgsNTksNjAsNjEsNjIsNjMsNjQsNjUsNjYsNjcsNjgsNjksNzAsNzEsNzIsNzMsNzQsNzUsNzYsNzcsNzgsNzksODAsODEsODIsODMsODQsODUsODYsODcsODgsODksOTAsOTEsOTIsOTMsOTQsOTUsOTYsOTcsOTgsOTksMTAwLDEwMSwxMDIsMTAzLDEwNCwxMDUsMTA2LDEwNywxMDgsMTA5LDExMCwxMTEsMTEyLDExMywxMTQsMTE1LDExNiwxMTcsMTE4LDExOSwxMjAsMTIxLDEyMiwxMjMsMTI0LDEyNSwxMjYsMTI3LDEyOCwxMjksMTMwLDEzMSwxMzIsMTMzLDEzNCwxMzUsMTM2LDEzNywxMzgsMTM5LDE0MCwxNDEsMTQyLDE0MywxNDQsMTQ1LDE0NiwxNDcsMTQ4LDE0OSwxNTAsMTUxLDE1MiwxNTMsMTU0LDE1NSwxNTYsMTU3LDE1OCwxNTksMTYwLDE2MSwxNjIsMTYzLDE2NCwxNjUsMTY2LDE2NywxNjgsMTY5LDE3MCwxNzEsMTcyLDE3MywxNzQsMTc1LDE3NiwxNzcsMTc4LDE3OSwxODAsMTgxLDE4MiwxODMsMTg0LDE4NSwxODYsMTg3LDE4OCwxODksMTkwLDE5MSwxOTIsMTkzLDE5NCwxOTUsMTk2LDE5NywxOTgsMTk5LDIwMCwyMDEsMjAyLDIwMywyMDQsMjA1LDIwNiwyMDcsMjA4LDIwOSwyMTAsMjExLDIxMiwyMTMsMjE0LDIxNSwyMTYsMjE3LDIxOCwyMTksMjIwLDIyMSwyMjIsMjIzLDIyNCwyMjUsMjI2LDIyNywyMjgsMjI5LDIzMCwyMzEsMjMyLDIzMywyMzQsMjM1LDIzNiwyMzcsMjM4LDIzOSwyNDAsMjQxLDI0MiwyNDNdfV19fQ==",
+    "editable_guide_progress": "eyJDb21wbGV0ZWRFdmVudHMiOnsibm9ybWFsX2Zsb3ciOlsiY2hhcmxpZXNfd2VsY29tZV9lZGl0YWJsZSIsInN5c3RlbV9pbmZvX2VkaXRhYmxlIiwiYmxhbmsiXX0sIkxhc3REb2dQT0lUaWxlIjp7IngiOjAuMCwieSI6MC4wLCJtYWduaXR1ZGUiOjAuMCwic3FyTWFnbml0dWRlIjowLjB9LCJMYXN0RG9nR3VpZGVTdGF0ZSI6MCwiTGFzdFJldHVybmVyQ291bnQiOjAsIkxhc3ROb21hZENvdW50IjowfQ=="
+  }
+}

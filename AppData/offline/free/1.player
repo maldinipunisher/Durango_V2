@@ -1,0 +1,2158 @@
+{
+  "player_slot": 1,
+  "appear_player": {
+    "EntityId": "3235dd66-029b-42d9-b03f-3209f70cf9bd",
+    "EntityType": 1001,
+    "IsAlive": true,
+    "Name": "Kyllox_FOREVER",
+    "Freq": 1125,
+    "Level": 99,
+    "Title": {
+      "EntityId": "3235dd66-029b-42d9-b03f-3209f70cf9bd",
+      "TitleId": "shwbu1s8-17sj-vkq8-msu0-0183jdwlc9fh",
+      "_Title": "영원한 개척자"
+    },
+    "Member": {
+      "EntityId": "3235dd66-029b-42d9-b03f-3209f70cf9bd",
+      "ClanId": "",
+      "ClanName": "FOREVER",
+      "RoleId": -1,
+      "ApplyingClanId": null
+    },
+    "Display": {
+      "EntityId": "3235dd66-029b-42d9-b03f-3209f70cf9bd",
+      "DefaultBody": "Models/PC/Female/Body/f_body_nothing.FBX",
+      "DefaultInner": "Models/PC/Female/Inner/f_inner_basic.FBX",
+      "DefaultHead": null,
+      "DefaultHair": null,
+      "Hair": "Models/PC/Female/Hair/f_hair_lady",
+      "Body": "Models/PC/Female/Body/f_body_school_cardigan.prefab",
+      "Head": "Models/PC/Female/Head/f_head_school_headset_01.fbx",
+      "Equip": null,
+      "Beard": "",
+      "BodyColor": [
+        "FFD246",
+        "1B1B1B",
+        "25221E"
+      ],
+      "HeadColor": [
+        "000000",
+        "FFFFFF",
+        "FFD246"
+      ],
+      "EquipColor": null,
+      "SkinColor": "FFE9EA",
+      "HairColor": "521C09",
+      "EyeColor": "221918",
+      "LipColor": "FA8099",
+      "Portrait": 4,
+      "PortraitBg": 4,
+      "PortraitBgColor": "789B2E",
+      "PortraitIcon": null,
+      "VoiceType": 5,
+      "BodySize": 0.8801532,
+      "Invisible": false,
+      "WeaponInfo": {
+        "Projectile": null,
+        "ProjectileSpeed": null,
+        "DetonateDelay": null,
+        "WeaponFramework": null
+      },
+      "BoardingOn": 0,
+      "BoardingTime": {
+        "Since": null,
+        "Until": null
+      },
+      "VehicleEntityId": null,
+      "Accessory": null
+    },
+    "Move": {
+      "EntityId": "3235dd66-029b-42d9-b03f-3209f70cf9bd",
+      "Movements": [
+        {
+          "MotionName": "Barehand_Stand",
+          "MotionOption": 34,
+          "PlaybackRate": 1.0,
+          "RotSpeed": 540.0,
+          "Path": [
+            {
+              "Position": {
+                "x": 13912.0,
+                "y": 14496.0
+              },
+              "Yaw": -26.5126858,
+              "Time": 1621489442.7120829,
+              "Floor": 0,
+              "Height": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "Survival": {
+      "EntityId": "3235dd66-029b-42d9-b03f-3209f70cf9bd",
+      "Life": {
+        "min": 0.0,
+        "max": 32767.0,
+        "cur": 32767.0
+      },
+      "Gauges": {
+        "stamina": {
+          "min": 0.0,
+          "max": 32767.0,
+          "cur": 32767.0
+        },
+        "fatigue": {
+          "min": 0.0,
+          "max": 32767.0,
+          "cur": 0.0
+        }
+      }
+    },
+    "Musician": null,
+    "RescueRequested": false
+  },
+  "player_info": {
+    "player_level": 99,
+    "disconnected_at": 1621523476.7605832,
+    "player_name": "Kyllox_FOREVER",
+    "player_entity_id": "3235dd66-029b-42d9-b03f-3209f70cf9bd",
+    "deletes_at": null
+  },
+  "inventory_items": [
+    {
+      "Id": "122c78aa-e267-4cb9-89b6-a90ec5517ed5",
+      "Name": "정장",
+      "Description": "사무직의 기본 복장. \"아침마다 정장은 군단이 되어 행진한다.\"",
+      "Icon": "clothes_officelook",
+      "SubIcon": null,
+      "Prototype": "clothes_officeworker",
+      "Level": 1,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "D0D0D0",
+      "ColorG": "161515",
+      "ColorB": "161515",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 1
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 1
+        },
+        {
+          "Id": "modern_officeworker",
+          "Level": 1
+        },
+        {
+          "Id": "clothes",
+          "Level": 1
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_officelook.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_officelook.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "f0592be0-4313-4add-8c56-54161e8339ce",
+      "Name": "특별한 건설 모자",
+      "Description": "다른 옷 위에 입을 수 있는 특별한 건설 모자. \"사업장 무재해 달성하자!\"",
+      "Icon": "hat_special_builder",
+      "SubIcon": null,
+      "Prototype": "hat_special_builder_avatar",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "9D9892",
+      "ColorG": "9F6700",
+      "ColorB": "6F563D",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "equipment_avatar",
+          "Level": 60
+        },
+        {
+          "Id": "hat",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Head/f_head_special_builder_02.prefab",
+            "male_model": "Models/PC/Male/Head/m_head_special_builder_02.prefab",
+            "slot": "head"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "02597af5-0c96-4891-a12e-fb1c8e99bba4",
+      "Name": "건설 이름표",
+      "Description": "건설 이름표. \"현장 출입시엔 반드시 안전모를 착용합시다.\"",
+      "Icon": "nametag_builder",
+      "SubIcon": null,
+      "Prototype": "nametag_builder",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "FFFFFF",
+      "ColorG": "9EAAB1",
+      "ColorB": "B6C2C9",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "fd539699-fe9f-46bb-ada7-698b2b9dee9a",
+      "Name": "정교한 나무문",
+      "Description": "조립식 건축물인 벽집에 드나들 수 있도록 제작한 정교한 나무문. \"촘촘하고 정교하게 엮었다.\"",
+      "Icon": "door_02_wood",
+      "SubIcon": null,
+      "Prototype": "door_03_wood",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 4,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "483F2F",
+      "ColorG": "483F2F",
+      "ColorB": "483F2F",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "door",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "modular_door_03_wood"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "67550280-3483-4680-97d5-c0aa535e1dad",
+      "Name": "기본 나무 문틀",
+      "Description": "조립식 건축물인 벽집에 드나들 수 있도록 기본으로 설치되는 나무 문틀.",
+      "Icon": "door_01_none",
+      "SubIcon": null,
+      "Prototype": "door_01_none",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 4,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "3C1E17",
+      "ColorG": "3C1E17",
+      "ColorB": "3C1E17",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "door",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": ""
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "a9d331de-0e97-4a10-8dc5-1614370fc1cc",
+      "Name": "틀 없는 문",
+      "Description": "조립식 건축물인 벽집에 드나들 수 있도록 제작한 틀 없는 문. \"벽을 튼 것과 차이를 모르겠다.\"",
+      "Icon": "door_01_frameless",
+      "SubIcon": null,
+      "Prototype": "door_01_frameless",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 4,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "AA9E75",
+      "ColorG": "AA9E75",
+      "ColorB": "AA9E75",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "empty_door",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "door_01_frameless"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "fabc0b23-6d3f-4181-aa77-e56a09c361ca",
+      "Name": "사과 종자",
+      "Description": "사과를 얻을 수 있는 종자. 큰 밭에 심어 키운다. \"세상의 끝에 사과나무 한 그루가 서 있으리라.\"",
+      "Icon": "icon_nat_farm_seed",
+      "SubIcon": null,
+      "Prototype": "apple_seed",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "7E2909",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "plantable",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "14d24fee-599f-47a1-a23e-8ddd5142058a",
+      "Name": "카디건 교복",
+      "Description": "다른 옷 위에 입을 수 있는 카디건 교복. \"교복은 표준화에 탁월하다.\"",
+      "Icon": "clothes_school_cardigan",
+      "SubIcon": null,
+      "Prototype": "clothes_school_event_cardigan",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "FFD246",
+      "ColorG": "1B1B1B",
+      "ColorB": "25221E",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "equipment_avatar",
+          "Level": 60
+        },
+        {
+          "Id": "clothes",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_school_cardigan.prefab",
+            "male_model": "Models/PC/Male/Body/m_body_school_cardigan.prefab",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "ca817189-afdc-4bc9-a9ba-d0454dc9cbca",
+      "Name": "카디건 교복 헤드셋",
+      "Description": "다른 옷 위에 입을 수 있는 교복 헤드셋. \"과거는 흘러가지만, 음악으로 돌아온다.\"",
+      "Icon": "hat_school_cardigan",
+      "SubIcon": null,
+      "Prototype": "clothes_school_event_cardigan_hat",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "000000",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFD246",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "equipment_avatar",
+          "Level": 60
+        },
+        {
+          "Id": "clothes",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Head/f_head_school_headset_01.fbx",
+            "male_model": "Models/PC/Male/Head/m_head_school_headset_01.fbx",
+            "slot": "head"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "d07cc2f7-ffc1-4c24-9a4d-b0c60624868a",
+      "Name": "교복",
+      "Description": "학생의 기본 복장. \"교복이 없는 학교로 갈 걸 그랬나?\"",
+      "Icon": "clothes_school",
+      "SubIcon": null,
+      "Prototype": "clothes_student_store",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "322B32",
+      "ColorG": "E7DDD0",
+      "ColorB": "5F5C56",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 60
+        },
+        {
+          "Id": "modern_student",
+          "Level": 60
+        },
+        {
+          "Id": "clothes",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_school.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_school.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "57de190e-6cd0-4b6d-9ae0-08461f11031c",
+      "Name": "피아노",
+      "Description": "맑은 음을 낼 수 있는 피아노. \"바이엘과 체르니는 이곳에서도 좋은 친구다.\"",
+      "Icon": "icon_instrument_piano",
+      "SubIcon": null,
+      "Prototype": "instrument_piano",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "FF8C88",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "instrument",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "instrument",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "timbre": "piano"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "52c56713-0f7a-4ee9-a87c-51ebe035b74a",
+      "Name": "[이벤트] 100일 기념 종이 안경",
+      "Description": "특별한 날을 맞아 누군가가 정성껏 접어준 종이 안경. \"100일이라니! 10년은 사용할 수 있을 것 같다. 비 오는 날에는 품에 넣어두자.\"",
+      "Icon": "hat_DRG100days",
+      "SubIcon": null,
+      "Prototype": "hat_party_100thday_event",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "919405",
+      "ColorG": "B7C7DF",
+      "ColorB": "B7B9B3",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "hat",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/head/f_head_DRG100days_01.fbx",
+            "male_model": "Models/PC/Male/head/m_head_DRG100days_01.fbx",
+            "slot": "head"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "09d700ef-cab2-435e-aaa7-4cf1210beaa4",
+      "Name": "두겹활",
+      "Description": "여러 재료로 만든 활. \"직원이 두 배로 늘면 관리 업무는 그 이상으로 는다.\"",
+      "Icon": "weapon_bow_metal_2",
+      "SubIcon": null,
+      "Prototype": "bow_metal_01",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "000000",
+      "ColorG": "F00000",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "weapon",
+          "Level": 60
+        },
+        {
+          "Id": "metal",
+          "Level": 60
+        },
+        {
+          "Id": "bow",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "weapon",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "weapon_framework": "bow",
+            "model": "Models/Equipment/Bow/bow_metal.FBX",
+            "slot": "both"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "150ac710-a4bd-43ea-8a69-31646a7fce03",
+      "Name": "불안정한 두겹활",
+      "Description": "여러 재료로 만든 활. 활 시위에 기름이 뭍어있다. \"직원이 두 배로 늘면 관리 업무는 그 이상으로 는다.\"",
+      "Icon": "weapon_bow_metal_2",
+      "SubIcon": null,
+      "Prototype": "s02_bow_metal_01",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "392F31",
+      "ColorG": "564D4F",
+      "ColorB": "C2C2C2",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "weapon",
+          "Level": 60
+        },
+        {
+          "Id": "bow",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "weapon",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "weapon_framework": "bow",
+            "model": "Models/Equipment/Bow/bow_metal.FBX",
+            "slot": "both"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "cc7241ac-5b98-43db-aadc-fa2d1c5aff3a",
+      "Name": "도시 장인 활",
+      "Description": "도시섬에서 만든 활. \"보통 사람들의 협력은 초인의 자급자족을 뛰어넘는다.\"",
+      "Icon": "weapon_bow_metal_T2",
+      "SubIcon": null,
+      "Prototype": "urban_bow",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "FFFFFF",
+      "ColorG": "FFFFFF",
+      "ColorB": "000000",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "weapon",
+          "Level": 60
+        },
+        {
+          "Id": "bow",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "weapon",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "weapon_framework": "bow",
+            "model": "Models/Equipment/Bow/bow_metal_T2.fbx",
+            "slot": "both"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "22370096-51f8-480c-bfcc-2ad5237ff5dc",
+      "Name": "두머리뼈활",
+      "Description": "머리뼈로 만든 활. \"그놈한테 화살을 날릴 것이여.\"",
+      "Icon": "weapon_bow_lava",
+      "SubIcon": null,
+      "Prototype": "bow_bone_04",
+      "Level": 99,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "5F00FF",
+      "ColorG": "000000",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "strike_vital",
+          "Level": 32767
+        },
+        {
+          "Id": "sadism",
+          "Level": 32767
+        },
+        {
+          "Id": "throw_dirt",
+          "Level": 32767
+        },
+        {
+          "Id": "pain_averse",
+          "Level": 32767
+        },
+        {
+          "Id": "black",
+          "Level": 32767
+        },
+        {
+          "Id": "vibration",
+          "Level": 32767
+        },
+        {
+          "Id": "narrow_hook",
+          "Level": 32767
+        },
+        {
+          "Id": "wide_serration",
+          "Level": 32767
+        },
+        {
+          "Id": "gathering_secret",
+          "Level": 32767
+        },
+        {
+          "Id": "meticulous",
+          "Level": 32767
+        },
+        {
+          "Id": "extra",
+          "Level": 32767
+        },
+        {
+          "Id": "mania",
+          "Level": 32767
+        },
+        {
+          "Id": "strength_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "agility_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "edurance_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "charisma_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "intelligence_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "dexterity_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "will_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "perception_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "attack_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "defense_penetration_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "accuracy_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "lethality_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "defense_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "evasion_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "max_health_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "max_energy_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "gathering_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "mining_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "crafting_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "tailoring_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "cooking_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "farming_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "furniture_crafting_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "building_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "handicraft_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "sewing_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "tailoring_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "processing_incr",
+          "Level": 32767
+        },
+        {
+          "Id": "weapon",
+          "Level": 60
+        },
+        {
+          "Id": "bone",
+          "Level": 60
+        },
+        {
+          "Id": "bow",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "weapon",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "weapon_framework": "bow",
+            "model": "Models/Equipment/Bow/bow_lava.FBX",
+            "slot": "both"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "cc3c466e-d12a-4d7b-967b-c11f2da99d42",
+      "Name": "[이벤트] 이빨장식 뼈갈매기석궁",
+      "Description": "여러 재료로 만든 석궁. \"이 석궁의 별명은 훗날 개발될 지대공 미사일의 이름이 되겠지.\"",
+      "Icon": "weapon_crossbow_bone_2",
+      "SubIcon": null,
+      "Prototype": "crossbow_bone_02_gstar2018",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "4F3613",
+      "ColorG": "C5BFB4",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "will_incr",
+          "Level": 60
+        },
+        {
+          "Id": "accuracy_incr",
+          "Level": 60
+        },
+        {
+          "Id": "weapon",
+          "Level": 60
+        },
+        {
+          "Id": "agility_incr",
+          "Level": 60
+        },
+        {
+          "Id": "crossbow",
+          "Level": 60
+        },
+        {
+          "Id": "bone",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "weapon",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "weapon_framework": "crossbow",
+            "model": "Models/Equipment/Bow/crossbow_hunt.FBX",
+            "slot": "both"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "50dbb8aa-2a5b-4d04-a882-773a7f093b23",
+      "Name": "[이벤트] 운동화",
+      "Description": "신을 수 있는 현대의 운동화. \"이곳에 온 뒤로 운동은 원 없이 한다.\"",
+      "Icon": "shoes_snikers_01",
+      "SubIcon": null,
+      "Prototype": "shoes_snikers_01_event",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "B2CFD8",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "shoes",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "shoes"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "d155c2d2-4d40-4f9a-b6cc-5034cd1370f2",
+      "Name": "[이벤트] 승차권",
+      "Description": "기차와 함께 워프된 종이 조각. \"달라진 목적지가 싫지만은 않다.\" ",
+      "Icon": "event_ticket",
+      "SubIcon": null,
+      "Prototype": "event_train_ticket",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "BAA175",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "8de92555-c10c-4fbe-8df0-8d1f61c92a95",
+      "Name": "[이벤트] 콤피 인형",
+      "Description": "공룡 모양의 인형. \"기차의 소녀는 공룡 인형을 들고 있었다.\"",
+      "Icon": "event_compi_doll",
+      "SubIcon": null,
+      "Prototype": "event_compy_doll",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "7FBE5F",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "1a6c6898-4033-4b66-8983-e5d9d03d5b3e",
+      "Name": "[이벤트] 만년필",
+      "Description": "고급스러운 필기 도구. \"야성만큼 지성이 빛나는 날도 오리라.\"",
+      "Icon": "event_fountain_pen",
+      "SubIcon": null,
+      "Prototype": "event_fountain_pen",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "FFFFFF",
+      "ColorG": "32302B",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "f1856726-d80f-4ee7-9041-c9ae2482ae65",
+      "Name": "[이벤트] 맞춤형 콘텍트 렌즈",
+      "Description": "얇고 투명한 렌즈. \"모든 일은 더 잘, 깊이 보는 것에서 시작한다.\"",
+      "Icon": "event_contact_lenses",
+      "SubIcon": null,
+      "Prototype": "event_contact_lenses",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "B2EBF4",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "aa6d60b3-7134-49ea-a4db-8314b62d047a",
+      "Name": "[이벤트] 여행용 캐리어",
+      "Description": "아이템 보관 공간을 늘릴 수 있는 가방. \"이 안은 설렘과 행복으로 가득하다.\"",
+      "Icon": "event_suitcase",
+      "SubIcon": null,
+      "Prototype": "event_suitcase",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "4B3111",
+      "ColorG": "4C4C4C",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "b2282d73-7b9f-415a-ad70-53ef7cf06fc3",
+      "Name": "[이벤트] 마우스",
+      "Description": "쥐는 맛이 있는 물건. \"그 쥐가 아니다.\"",
+      "Icon": "event_mouse",
+      "SubIcon": null,
+      "Prototype": "event_mouse",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "BDBDBD",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "f42d4bdf-6678-4381-b4a5-d9434ddd5b4d",
+      "Name": "[이벤트] 콤피 금메달",
+      "Description": "콤피가 그려진 금메달. \"금은 깨물어야 제 맛.\"",
+      "Icon": "event_compi_medal",
+      "SubIcon": null,
+      "Prototype": "event_medal_gold",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "D09900",
+      "ColorG": "C90000",
+      "ColorB": "0028ED",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "e22b26a2-896a-437c-9237-4f89689a4ae8",
+      "Name": "[이벤트] 아카이브 만년필",
+      "Description": "아카이브로부터 선물 받은 필기 도구. \"지성만큼 유머가 빛나는 날도 오리라.\"",
+      "Icon": "event_fountain_pen",
+      "SubIcon": null,
+      "Prototype": "event_fountain_pen_archive",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "FFFFFF",
+      "ColorG": "BA9B00",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "d4c9d93a-0644-477f-8183-a3258322503f",
+      "Name": "[이벤트] 태블릿PC",
+      "Description": "현대에서 온 태블릿PC. \"왠지 모를 자신감이 생긴다.\"",
+      "Icon": "warp_elec_pad",
+      "SubIcon": null,
+      "Prototype": "event_tablet",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "CCCCCC",
+      "ColorG": "FFFFFF",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "2fffed04-3f05-4bba-9583-02fd09de596e",
+      "Name": "[이벤트] 마패",
+      "Description": "자격이 있는 사람에게 주어지는 증명서. \"옳은 길로 달린다.\"",
+      "Icon": "event_mapae",
+      "SubIcon": null,
+      "Prototype": "event_mapae ",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "D16916",
+      "ColorG": "BA0939",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "9191f99b-2161-4c51-85fe-b15e42c1a21d",
+      "Name": "등 가방",
+      "Description": "등에 매는 가방. \"창고를 가득 채울 욕심에서 글자와 데이터베이스가 생겨났다.\"",
+      "Icon": "bag_back",
+      "SubIcon": null,
+      "Prototype": "bag_back",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "9FC5DD",
+      "ColorG": "643618",
+      "ColorB": "FFFFFF",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "bag",
+          "Level": 60
+        },
+        {
+          "Id": "pocket",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "bag"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "14e23446-be5a-4d7e-91fe-0b8c724ccf8b",
+      "Name": "벚나무 가방",
+      "Description": "벚꽃과 가지를 재료로 만든 가방.\"꿈을 무한히 담을 수 있다.\"",
+      "Icon": "bag_blossom",
+      "SubIcon": null,
+      "Prototype": "cherryblossom_2019_bag",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "E7ADB6",
+      "ColorG": "B4727C",
+      "ColorB": "F1E2D4",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "bag",
+          "Level": 60
+        },
+        {
+          "Id": "pocket",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "bag"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "eb6c0a6d-cd60-4caf-8caa-443ccd88ccf2",
+      "Name": "나무판재 창문",
+      "Description": "나무판재로 만든 창문. \"밖에 나가긴 싫지만, 밖은 보고 싶었다.\"",
+      "Icon": "window_01_woodplank",
+      "SubIcon": null,
+      "Prototype": "window_01_woodplank",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "42341F",
+      "ColorG": "42341F",
+      "ColorB": "42341F",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "window",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "modular_window_01_woodplank"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "bbffb9db-8782-471f-b5e1-90582ee0a2bf",
+      "Name": "가죽살 창문",
+      "Description": "조립식 건축물인 벽집에 꾸밀 수 있도록 제작한 가죽살 창문. \"가히 비상식량이라 할 수 있겠다.\"",
+      "Icon": "window_02_wood",
+      "SubIcon": null,
+      "Prototype": "window_02_leather",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 2,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "5F574C",
+      "ColorG": "5F574C",
+      "ColorB": "5F574C",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "window",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "add_on",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "add_on_model_key": "modular_window_02_leather"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    }
+  ],
+  "equipped_items": {
+    "body": "14d24fee-599f-47a1-a23e-8ddd5142058a",
+    "head": "ca817189-afdc-4bc9-a9ba-d0454dc9cbca",
+    "shoes": "50dbb8aa-2a5b-4d04-a882-773a7f093b23",
+    "precious": "d155c2d2-4d40-4f9a-b6cc-5034cd1370f2",
+    "bag": "14e23446-be5a-4d7e-91fe-0b8c724ccf8b"
+  },
+  "musics": {
+    "0": {
+      "Name": "새 악보",
+      "Data": "xwXwQk1UaGQAAAAGAAEAAQHgTVRyawAAArEA/1EDB6EgAZBBf4JngEEAAJBDf3iAQwAAkEV/hVCARQAAkEZ/gXCARgAAkEYBEiRGAACQSH+BcIBIBQkEhVAFCQBFARIBLQxFf4NgBQkASAEJASQARgEkATYVJABGARsBEgBDAQkAQwVsBIsgBTYMQX+CaMqGAASHQAVr1n0AAEEBPwxBAINgLtgADeEATQG9EE0AAJBMARIQTAAAkEoBEgBKBfwNJABIAUAB6tZ/AABFEfw9Vg1a+n4APYMEh0A2cQEAQQF1DfQEjwAFvgBGGSUEh0AllgBBIZ8FJS2pDINgkEUBHQBFAQoVXvqmAI4gAihBf4sggEEAAf8vAA==",
+      "Duration": 48.0,
+      "Publisher": null
+    }
+  },
+  "storage": {
+    "encyclopedia": "eyJNZW1vIjp7Ik1lbW9zIjpbeyJLZXkiOjEsIlZhbHVlIjpbMCwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Myw1NCw1NSw1Niw1Nyw1OCw1OSw2MCw2MSw2Miw2Myw2NCw2NSw2Niw2Nyw2OCw2OSw3MCw3MSw3Miw3Myw3NCw3NSw3Niw3Nyw3OCw3OSw4MCw4MSw4Miw4Myw4NCw4NSw4Niw4Nyw4OCw4OSw5MCw5MSw5Miw5Myw5NCw5NSw5Niw5Nyw5OCw5OSwxMDAsMTAxLDEwMiwxMDMsMTA0LDEwNSwxMDYsMTA3LDEwOCwxMDksMTEwLDExMSwxMTIsMTEzLDExNCwxMTUsMTE2LDExNywxMTgsMTE5LDEyMCwxMjEsMTIyLDEyMywxMjQsMTI1LDEyNiwxMjcsMTI4LDEyOSwxMzAsMTMxLDEzMiwxMzMsMTM0LDEzNSwxMzYsMTM3LDEzOCwxMzksMTQwLDE0MSwxNDIsMTQzLDE0NCwxNDUsMTQ2LDE0NywxNDgsMTQ5LDE1MCwxNTEsMTUyLDE1MywxNTQsMTU1LDE1NiwxNTcsMTU4LDE1OSwxNjAsMTYxLDE2MiwxNjMsMTY0LDE2NSwxNjYsMTY3LDE2OCwxNjksMTcwLDE3MSwxNzIsMTczLDE3NCwxNzUsMTc2LDE3NywxNzgsMTc5LDE4MCwxODEsMTgyLDE4MywxODQsMTg1LDE4NiwxODcsMTg4LDE4OSwxOTAsMTkxLDE5MiwxOTMsMTk0LDE5NSwxOTYsMTk3LDE5OCwxOTksMjAwLDIwMSwyMDIsMjAzLDIwNCwyMDUsMjA2LDIwNywyMDgsMjA5LDIxMCwyMTEsMjEyLDIxMywyMTQsMjE1LDIxNiwyMTcsMjE4LDIxOSwyMjAsMjIxLDIyMiwyMjMsMjI0LDIyNSwyMjYsMjI3XX0seyJLZXkiOjAsIlZhbHVlIjpbMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAsMzEsMzIsMzMsMzQsMzUsMzYsMzcsMzgsMzksNDAsNDEsNDMsNDQsNDUsNDYsNDcsNDgsNDksNTAsNTEsNTIsNTMsNTQsNTUsNTYsNTcsNTgsNTksNjAsNjEsNjIsNjMsNjQsNjUsNjYsNjcsNjgsNjksNzAsNzEsNzIsNzMsNzQsNzUsNzYsNzcsNzgsNzksODAsODEsODIsODMsODQsODUsODYsODcsODgsODksOTAsOTEsOTIsOTMsOTQsOTUsOTYsOTcsOTgsOTksMTAwLDEwMSwxMDIsMTAzLDEwNCwxMDUsMTA2LDEwNywxMDgsMTA5LDExMCwxMTEsMTEyLDExMywxMTQsMTE1LDExNiwxMTcsMTE4LDExOSwxMjAsMTIxLDEyMiwxMjMsMTI0LDEyNSwxMjYsMTI3LDEyOCwxMjksMTMwLDEzMSwxMzIsMTMzLDEzNCwxMzUsMTM2LDEzNywxMzgsMTM5LDE0MCwxNDEsMTQyLDE0MywxNDQsMTQ1LDE0NiwxNDcsMTQ4LDE0OSwxNTAsMTUxLDE1MiwxNTMsMTU0LDE1NSwxNTYsMTU3LDE1OCwxNTksMTYwLDE2MSwxNjIsMTYzLDE2NCwxNjUsMTY2LDE2NywxNjgsMTY5LDE3MCwxNzEsMTcyLDE3MywxNzQsMTc1LDE3NiwxNzcsMTc4LDE3OSwxODAsMTgxLDE4MiwxODMsMTg0LDE4NSwxODYsMTg3LDE4OCwxODksMTkwLDE5MSwxOTIsMTkzLDE5NCwxOTUsMTk2LDE5NywxOTgsMTk5LDIwMCwyMDEsMjAyLDIwMywyMDQsMjA1LDIwNiwyMDcsMjA4LDIwOSwyMTAsMjExLDIxMiwyMTMsMjE0LDIxNSwyMTYsMjE3LDIxOCwyMTksMjIwLDIyMSwyMjIsMjIzLDIyNCwyMjUsMjI2LDIyNywyMjgsMjI5LDIzMCwyMzEsMjMyLDIzMywyMzQsMjM1LDIzNiwyMzcsMjM4LDIzOSwyNDAsMjQxLDI0MiwyNDNdfV19fQ==",
+    "editable_guide_progress": "eyJDb21wbGV0ZWRFdmVudHMiOnsibm9ybWFsX2Zsb3ciOlsiY2hhcmxpZXNfd2VsY29tZV9lZGl0YWJsZSIsInN5c3RlbV9pbmZvX2VkaXRhYmxlIiwiYmxhbmsiXX0sIkxhc3REb2dQT0lUaWxlIjp7IngiOjAuMCwieSI6MC4wLCJtYWduaXR1ZGUiOjAuMCwic3FyTWFnbml0dWRlIjowLjB9LCJMYXN0RG9nR3VpZGVTdGF0ZSI6MCwiTGFzdFJldHVybmVyQ291bnQiOjAsIkxhc3ROb21hZENvdW50IjowfQ=="
+  },
+  "skills": {
+    "Armorcrafting": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Butchery": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Constructing": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Cooking": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Defense": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Farming": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Gathering": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "MeleeCombat": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Process": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "RangedCombat": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Survival": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Weaponcrafting": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    }
+  },
+  "known_skills": [],
+  "skill_points": 1000,
+  "craftest": {
+    "RecipeId": null,
+    "Materials": null,
+    "ToolItemId": null,
+    "Workbench": null,
+    "ReformSlotIndex": null
+  },
+  "active_pet": {
+    "EntityId": null,
+    "EntityType": 0,
+    "IsAlive": false,
+    "Move": null,
+    "Survival": {
+      "EntityId": null,
+      "Life": null,
+      "Gauges": null
+    },
+    "PetData": null
+  },
+  "position": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

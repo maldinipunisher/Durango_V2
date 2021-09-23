@@ -1,0 +1,296 @@
+{
+  "player_slot": 0,
+  "appear_player": {
+    "EntityId": "6766b4a3-6bd4-401f-bf5b-cd242ddb4a2d",
+    "EntityType": 1001,
+    "IsAlive": true,
+    "Name": "13234w57689",
+    "Freq": 0,
+    "Level": 60,
+    "Title": {
+      "EntityId": "6766b4a3-6bd4-401f-bf5b-cd242ddb4a2d",
+      "TitleId": "f35725cc-0747-4208-bfb1-65f2e400fc91",
+      "_Title": "영원한 개척자"
+    },
+    "Member": {
+      "EntityId": "6766b4a3-6bd4-401f-bf5b-cd242ddb4a2d",
+      "ClanId": "",
+      "ClanName": "",
+      "RoleId": 0,
+      "ApplyingClanId": null
+    },
+    "Display": {
+      "EntityId": "6766b4a3-6bd4-401f-bf5b-cd242ddb4a2d",
+      "DefaultBody": "Models/PC/Female/Body/f_body_nothing.FBX",
+      "DefaultInner": "Models/PC/Female/Inner/f_inner_basic.FBX",
+      "DefaultHead": null,
+      "DefaultHair": null,
+      "Hair": "Models/PC/Female/Hair/f_hair_lowtail",
+      "Body": "Models/PC/Female/Body/f_body_hoody.fbx",
+      "Head": null,
+      "Equip": null,
+      "Beard": null,
+      "BodyColor": [
+        "4A1300",
+        "A88F6B",
+        "6A3C1E"
+      ],
+      "HeadColor": [
+        "3D6A6D",
+        "564F74",
+        "789B2E"
+      ],
+      "EquipColor": null,
+      "SkinColor": "D2AFAD",
+      "HairColor": "3E2E3A",
+      "EyeColor": "773336",
+      "LipColor": "F46A72",
+      "Portrait": 8,
+      "PortraitBg": 7,
+      "PortraitBgColor": "AD9797",
+      "PortraitIcon": null,
+      "VoiceType": 7,
+      "BodySize": 0.92745167,
+      "Invisible": false,
+      "WeaponInfo": {
+        "Projectile": null,
+        "ProjectileSpeed": null,
+        "DetonateDelay": null,
+        "WeaponFramework": null
+      },
+      "BoardingOn": 0,
+      "BoardingTime": {
+        "Since": null,
+        "Until": null
+      },
+      "VehicleEntityId": null,
+      "Accessory": null
+    },
+    "Move": {
+      "EntityId": "6766b4a3-6bd4-401f-bf5b-cd242ddb4a2d",
+      "Movements": [
+        {
+          "MotionName": "Barehand_Stand",
+          "MotionOption": 34,
+          "PlaybackRate": 1.0,
+          "RotSpeed": 540.0,
+          "Path": [
+            {
+              "Position": {
+                "x": 27694.0,
+                "y": 13306.0
+              },
+              "Yaw": 135.0,
+              "Time": 1621522278.221148,
+              "Floor": 0,
+              "Height": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "Survival": {
+      "EntityId": "6766b4a3-6bd4-401f-bf5b-cd242ddb4a2d",
+      "Life": {
+        "min": 0.0,
+        "max": 1125.0,
+        "cur": 1125.0
+      },
+      "Gauges": {
+        "stamina": {
+          "min": 0.0,
+          "max": 11250.0,
+          "cur": 11250.0
+        },
+        "fatigue": {
+          "min": 0.0,
+          "max": 100.0,
+          "cur": 0.0
+        }
+      }
+    },
+    "Musician": null,
+    "RescueRequested": false
+  },
+  "player_info": {
+    "player_level": 60,
+    "disconnected_at": 1621522252.4264672,
+    "player_name": "13234w57689",
+    "player_entity_id": "6766b4a3-6bd4-401f-bf5b-cd242ddb4a2d",
+    "deletes_at": null
+  },
+  "inventory_items": [
+    {
+      "Id": "e2579a01-e36e-4f59-8796-afceac7a249e",
+      "Name": "운동복",
+      "Description": "취업 준비생의 기본 복장. \"어디든 갈 준비가 되어 있다.\"",
+      "Icon": "clothes_hoody",
+      "SubIcon": null,
+      "Prototype": "clothes_jobless",
+      "Level": 1,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "4A1300",
+      "ColorG": "A88F6B",
+      "ColorB": "6A3C1E",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "clothing",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 1
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 1
+        },
+        {
+          "Id": "modern_jobless",
+          "Level": 1
+        },
+        {
+          "Id": "clothes",
+          "Level": 1
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_hoody.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_hoody.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    }
+  ],
+  "equipped_items": {
+    "body": "e2579a01-e36e-4f59-8796-afceac7a249e"
+  },
+  "musics": null,
+  "storage": {
+    "encyclopedia": "eyJNZW1vIjp7Ik1lbW9zIjpbeyJLZXkiOjEsIlZhbHVlIjpbMCwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Myw1NCw1NSw1Niw1Nyw1OCw1OSw2MCw2MSw2Miw2Myw2NCw2NSw2Niw2Nyw2OCw2OSw3MCw3MSw3Miw3Myw3NCw3NSw3Niw3Nyw3OCw3OSw4MCw4MSw4Miw4Myw4NCw4NSw4Niw4Nyw4OCw4OSw5MCw5MSw5Miw5Myw5NCw5NSw5Niw5Nyw5OCw5OSwxMDAsMTAxLDEwMiwxMDMsMTA0LDEwNSwxMDYsMTA3LDEwOCwxMDksMTEwLDExMSwxMTIsMTEzLDExNCwxMTUsMTE2LDExNywxMTgsMTE5LDEyMCwxMjEsMTIyLDEyMywxMjQsMTI1LDEyNiwxMjcsMTI4LDEyOSwxMzAsMTMxLDEzMiwxMzMsMTM0LDEzNSwxMzYsMTM3LDEzOCwxMzksMTQwLDE0MSwxNDIsMTQzLDE0NCwxNDUsMTQ2LDE0NywxNDgsMTQ5LDE1MCwxNTEsMTUyLDE1MywxNTQsMTU1LDE1NiwxNTcsMTU4LDE1OSwxNjAsMTYxLDE2MiwxNjMsMTY0LDE2NSwxNjYsMTY3LDE2OCwxNjksMTcwLDE3MSwxNzIsMTczLDE3NCwxNzUsMTc2LDE3NywxNzgsMTc5LDE4MCwxODEsMTgyLDE4MywxODQsMTg1LDE4NiwxODcsMTg4LDE4OSwxOTAsMTkxLDE5MiwxOTMsMTk0LDE5NSwxOTYsMTk3LDE5OCwxOTksMjAwLDIwMSwyMDIsMjAzLDIwNCwyMDUsMjA2LDIwNywyMDgsMjA5LDIxMCwyMTEsMjEyLDIxMywyMTQsMjE1LDIxNiwyMTcsMjE4LDIxOSwyMjAsMjIxLDIyMiwyMjMsMjI0LDIyNSwyMjYsMjI3XX0seyJLZXkiOjAsIlZhbHVlIjpbMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAsMzEsMzIsMzMsMzQsMzUsMzYsMzcsMzgsMzksNDAsNDEsNDMsNDQsNDUsNDYsNDcsNDgsNDksNTAsNTEsNTIsNTMsNTQsNTUsNTYsNTcsNTgsNTksNjAsNjEsNjIsNjMsNjQsNjUsNjYsNjcsNjgsNjksNzAsNzEsNzIsNzMsNzQsNzUsNzYsNzcsNzgsNzksODAsODEsODIsODMsODQsODUsODYsODcsODgsODksOTAsOTEsOTIsOTMsOTQsOTUsOTYsOTcsOTgsOTksMTAwLDEwMSwxMDIsMTAzLDEwNCwxMDUsMTA2LDEwNywxMDgsMTA5LDExMCwxMTEsMTEyLDExMywxMTQsMTE1LDExNiwxMTcsMTE4LDExOSwxMjAsMTIxLDEyMiwxMjMsMTI0LDEyNSwxMjYsMTI3LDEyOCwxMjksMTMwLDEzMSwxMzIsMTMzLDEzNCwxMzUsMTM2LDEzNywxMzgsMTM5LDE0MCwxNDEsMTQyLDE0MywxNDQsMTQ1LDE0NiwxNDcsMTQ4LDE0OSwxNTAsMTUxLDE1MiwxNTMsMTU0LDE1NSwxNTYsMTU3LDE1OCwxNTksMTYwLDE2MSwxNjIsMTYzLDE2NCwxNjUsMTY2LDE2NywxNjgsMTY5LDE3MCwxNzEsMTcyLDE3MywxNzQsMTc1LDE3NiwxNzcsMTc4LDE3OSwxODAsMTgxLDE4MiwxODMsMTg0LDE4NSwxODYsMTg3LDE4OCwxODksMTkwLDE5MSwxOTIsMTkzLDE5NCwxOTUsMTk2LDE5NywxOTgsMTk5LDIwMCwyMDEsMjAyLDIwMywyMDQsMjA1LDIwNiwyMDcsMjA4LDIwOSwyMTAsMjExLDIxMiwyMTMsMjE0LDIxNSwyMTYsMjE3LDIxOCwyMTksMjIwLDIyMSwyMjIsMjIzLDIyNCwyMjUsMjI2LDIyNywyMjgsMjI5LDIzMCwyMzEsMjMyLDIzMywyMzQsMjM1LDIzNiwyMzcsMjM4LDIzOSwyNDAsMjQxLDI0MiwyNDNdfV19fQ==",
+    "rural_guide_progress": "eyJDb21wbGV0ZWRFdmVudHMiOnsibm9ybWFsX2Zsb3ciOlsiZGVsYXlfZm9yX2d1aWRlX21vdmVfdG9fcGVyc29uYWwiLCJrX3RhbGtfbW92ZV90b19wZXJzb25hbCIsInN5c3RlbV9tZXNzYWdlX21vdmVfdG9fcGVyc29uYWwiLCJrX3dhcm5pbmdfcmV0dXJuX3RvX3J1cmFsIiwic3lzdGVtX21lc3NhZ2VfcmV0dXJuX3RvX3J1cmFsIiwia193YXJuaW5nX3JldHVybl90b19ydXJhbF9hZ2FpbiIsImJsYW5rIl0sImJ1aWxkX2VzdGF0ZV9mbG93IjpbXSwiaGVhbHRoX2xvdyI6W10sImVuZXJneV9sb3ciOltdLCJwbGF5ZXJfZGVhZCI6W10sImZhdGlndWUiOltdLCJmYXRpZ3VlX2NhdXRpb24iOltdLCJmYXRpZ3VlX2RhbmdlciI6W10sInBvaXNvbmVkIjpbXSwiY2FyZ29fd2FycGhvbGUiOlsiYmxhbmsiXSwicmVnaW9uX3JhaWQiOlsiYmxhbmsiXSwicHJpdmF0ZV9lc3RhdGVfZXhwaXJlIjpbXSwicmV0dXJuZXJfZ3VpZGUiOltdfSwiTGFzdERvZ1BPSVRpbGUiOnsieCI6MC4wLCJ5IjowLjAsIm1hZ25pdHVkZSI6MC4wLCJzcXJNYWduaXR1ZGUiOjAuMH0sIkxhc3REb2dHdWlkZVN0YXRlIjowLCJMYXN0UmV0dXJuZXJDb3VudCI6MCwiTGFzdE5vbWFkQ291bnQiOjB9",
+    "common_guide_progress": "eyJDb21wbGV0ZWRFdmVudHMiOnsic2Vjb25kX3RpZXIiOlsiZGVsYXlfZm9yX3NlY29uZF90aWVyIiwic2Vjb25kX3RpZXJfc2FmZSIsInN5c3RlbV9zZWNvbmRfdGllcl9zYWZlIiwiYmxhbmsiXSwicmVnaW9uX3VyYmFuIjpbImRlbGF5X2Zvcl9yZWdpb25fdXJiYW4iLCJzeXN0ZW1fcmVnaW9uX3VyYWJuIiwiZXhwbGFpbl91cmJhbl9pc2xhbmQiLCJzeXN0ZW1fZXhwbGFpbl91cmJhbl9pc2xhbmQiLCJibGFuayJdLCJzdG9yZV9yZXZpZXciOltdLCJzZWFzb25fMDFfaW5pdGlhdGUiOlsiZGVsYXlfZm9yX3NlYXNvbl8wMV9pbml0aWF0ZSIsImFjdGl2YXRlX2ZhY3Rpb25fcmVzY3VlX3RmIiwiYmxhbmsiXSwidGFtZWRfYW5pbWFsX2NvbW1vbiI6W10sInF1ZXN0X3Jld2FyZF9jYWdlX2RvbWVzdGljYXRpb24iOltdLCJzdXJ2aXZhbF9sZXZlbF8xNV9mbG93X2NvbW1vbiI6WyJkZWxheV9zeXN0ZW1fbWVzc2FnZV90YW1lX2NvbW1vbiIsInN5c3RlbV9tZXNzYWdlX3RhbWVfY29tbW9uIiwibGVhcm5fc2tpbGxfdG9fdGFtZXRvb2xfY29tbW9uIl0sIm1vdmVfdG9fMTVfcmlza3lfaXNsYW5kIjpbXSwiemVicmFfbG9jYXRpb25fYXRfcmlza3kiOltdLCJwZXJzb25hbF9yZWdpb25fZ3VpZGVfZXhpc3RpbmdfcGxheWVyIjpbXSwidjJfMm5kX21pbGVzdG9uZV9wcmVwYXJlIjpbXSwidjJfMm5kX3RlY2hfc3VwcG9ydF9wcmVwYXJlIjpbXSwidjJfMm5kX3Vuc3RhYmxlX2ZhdGlndWVfZ3VpZGUiOltdfSwiTGFzdERvZ1BPSVRpbGUiOnsieCI6MC4wLCJ5IjowLjAsIm1hZ25pdHVkZSI6MC4wLCJzcXJNYWduaXR1ZGUiOjAuMH0sIkxhc3REb2dHdWlkZVN0YXRlIjowLCJMYXN0UmV0dXJuZXJDb3VudCI6MCwiTGFzdE5vbWFkQ291bnQiOjB9"
+  },
+  "skills": {
+    "Armorcrafting": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Butchery": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Constructing": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Cooking": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Defense": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Farming": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Gathering": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "MeleeCombat": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Process": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "RangedCombat": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Survival": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Weaponcrafting": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    }
+  },
+  "known_skills": [],
+  "skill_points": 1000,
+  "craftest": {
+    "RecipeId": null,
+    "Materials": null,
+    "ToolItemId": null,
+    "Workbench": null,
+    "ReformSlotIndex": null
+  },
+  "active_pet": {
+    "EntityId": null,
+    "EntityType": 0,
+    "IsAlive": false,
+    "Move": null,
+    "Survival": {
+      "EntityId": null,
+      "Life": null,
+      "Gauges": null
+    },
+    "PetData": null
+  },
+  "position": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

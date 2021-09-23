@@ -1,0 +1,427 @@
+{
+  "player_slot": 6,
+  "appear_player": {
+    "EntityId": "9703ef58-8566-410c-9681-aecc22f65e43",
+    "EntityType": 1001,
+    "IsAlive": true,
+    "Name": "55214523511",
+    "Freq": 0,
+    "Level": 60,
+    "Title": {
+      "EntityId": "9703ef58-8566-410c-9681-aecc22f65e43",
+      "TitleId": "cd9de2c4-bc99-488f-ba0e-fc263c7d2b46",
+      "_Title": "영원한 개척자"
+    },
+    "Member": {
+      "EntityId": "9703ef58-8566-410c-9681-aecc22f65e43",
+      "ClanId": "",
+      "ClanName": "",
+      "RoleId": 0,
+      "ApplyingClanId": null
+    },
+    "Display": {
+      "EntityId": "9703ef58-8566-410c-9681-aecc22f65e43",
+      "DefaultBody": "Models/PC/Male/Body/m_body_nothing.FBX",
+      "DefaultInner": "Models/PC/Male/Inner/m_inner_basic.FBX",
+      "DefaultHead": null,
+      "DefaultHair": null,
+      "Hair": "Models/PC/Female/Hair/f_hair_up_bang",
+      "Body": "Models/PC/Female/Body/f_body_officelook.fbx",
+      "Head": null,
+      "Equip": "Models/Equipment/Melee/sword_onehand_wild_assembled.fbx",
+      "Beard": null,
+      "BodyColor": [
+        "5796C0",
+        "908B88",
+        "A88F6B"
+      ],
+      "HeadColor": [
+        "A09F87",
+        "CA645A",
+        "636685"
+      ],
+      "EquipColor": [
+        "B6AC83",
+        "9C804F",
+        "8E6943"
+      ],
+      "SkinColor": "E7CBBC",
+      "HairColor": "6C3D22",
+      "EyeColor": "19A2FF",
+      "LipColor": "FF6A4F",
+      "Portrait": 0,
+      "PortraitBg": 4,
+      "PortraitBgColor": "789B2E",
+      "PortraitIcon": null,
+      "VoiceType": 1,
+      "BodySize": 0.897233069,
+      "Invisible": false,
+      "WeaponInfo": {
+        "Projectile": null,
+        "ProjectileSpeed": null,
+        "DetonateDelay": null,
+        "WeaponFramework": "onehand"
+      },
+      "BoardingOn": 0,
+      "BoardingTime": {
+        "Since": null,
+        "Until": null
+      },
+      "VehicleEntityId": null,
+      "Accessory": null
+    },
+    "Move": {
+      "EntityId": "9703ef58-8566-410c-9681-aecc22f65e43",
+      "Movements": [
+        {
+          "MotionName": "Onehand_Stand",
+          "MotionOption": 34,
+          "PlaybackRate": 1.0,
+          "RotSpeed": 540.0,
+          "Path": [
+            {
+              "Position": {
+                "x": 29509.0,
+                "y": 12305.0
+              },
+              "Yaw": 225.0,
+              "Time": 1622613037.8187723,
+              "Floor": 0,
+              "Height": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "Survival": {
+      "EntityId": "9703ef58-8566-410c-9681-aecc22f65e43",
+      "Life": {
+        "min": 0.0,
+        "max": 1125.0,
+        "cur": 1125.0
+      },
+      "Gauges": {
+        "stamina": {
+          "min": 0.0,
+          "max": 11250.0,
+          "cur": 11250.0
+        },
+        "fatigue": {
+          "min": 0.0,
+          "max": 100.0,
+          "cur": 0.0
+        }
+      }
+    },
+    "Musician": null,
+    "RescueRequested": false
+  },
+  "player_info": {
+    "player_level": 60,
+    "disconnected_at": 1622613384.0261075,
+    "player_name": "55214523511",
+    "player_entity_id": "9703ef58-8566-410c-9681-aecc22f65e43",
+    "deletes_at": null
+  },
+  "inventory_items": [
+    {
+      "Id": "fd07a84d-daad-4654-a052-98512ee37b49",
+      "Name": "정장",
+      "Description": "사무직의 기본 복장. \"아침마다 정장은 군단이 되어 행진한다.\"",
+      "Icon": "clothes_officelook",
+      "SubIcon": null,
+      "Prototype": "clothes_officeworker",
+      "Level": 1,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "5796C0",
+      "ColorG": "908B88",
+      "ColorB": "A88F6B",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "clothing",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 1
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 1
+        },
+        {
+          "Id": "modern_officeworker",
+          "Level": 1
+        },
+        {
+          "Id": "clothes",
+          "Level": 1
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_officelook.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_officelook.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "94d0de0c-b2d1-4a36-a325-01aa6c612a2d",
+      "Name": "정장",
+      "Description": "사무직의 기본 복장. \"아침마다 정장은 군단이 되어 행진한다.\"",
+      "Icon": "clothes_officelook",
+      "SubIcon": null,
+      "Prototype": "clothes_officeworker",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 11,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "DDCE9B",
+      "ColorG": "DDCE9B",
+      "ColorB": "DDCE9B",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": "55214523511",
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 60
+        },
+        {
+          "Id": "modern_officeworker",
+          "Level": 60
+        },
+        {
+          "Id": "clothes",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_officelook.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_officelook.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "dea01581-0ea6-4c03-ab84-030a6c5482ef",
+      "Name": "뼈솟칼",
+      "Description": "뼈로 만든 칼. \"사후 세계는 뼈의 용도에서 알 수 있다.\"",
+      "Icon": "weapon_sword_onehand_bone_2",
+      "SubIcon": null,
+      "Prototype": "sword_onehand_bone_02",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "B6AC83",
+      "ColorG": "9C804F",
+      "ColorB": "8E6943",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "weapon/tool",
+      "Tags": [
+        {
+          "Id": "sword_onehand",
+          "Level": 60
+        },
+        {
+          "Id": "weapon",
+          "Level": 60
+        },
+        {
+          "Id": "bone",
+          "Level": 60
+        },
+        {
+          "Id": "knife",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "weapon",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "weapon_framework": "onehand",
+            "model": "Models/Equipment/Melee/sword_onehand_wild_assembled.fbx",
+            "slot": "main"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    }
+  ],
+  "equipped_items": {
+    "body": "fd07a84d-daad-4654-a052-98512ee37b49",
+    "main": "dea01581-0ea6-4c03-ab84-030a6c5482ef"
+  },
+  "musics": null,
+  "storage": {
+    "encyclopedia": "eyJNZW1vIjp7Ik1lbW9zIjpbeyJLZXkiOjEsIlZhbHVlIjpbMCwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Myw1NCw1NSw1Niw1Nyw1OCw1OSw2MCw2MSw2Miw2Myw2NCw2NSw2Niw2Nyw2OCw2OSw3MCw3MSw3Miw3Myw3NCw3NSw3Niw3Nyw3OCw3OSw4MCw4MSw4Miw4Myw4NCw4NSw4Niw4Nyw4OCw4OSw5MCw5MSw5Miw5Myw5NCw5NSw5Niw5Nyw5OCw5OSwxMDAsMTAxLDEwMiwxMDMsMTA0LDEwNSwxMDYsMTA3LDEwOCwxMDksMTEwLDExMSwxMTIsMTEzLDExNCwxMTUsMTE2LDExNywxMTgsMTE5LDEyMCwxMjEsMTIyLDEyMywxMjQsMTI1LDEyNiwxMjcsMTI4LDEyOSwxMzAsMTMxLDEzMiwxMzMsMTM0LDEzNSwxMzYsMTM3LDEzOCwxMzksMTQwLDE0MSwxNDIsMTQzLDE0NCwxNDUsMTQ2LDE0NywxNDgsMTQ5LDE1MCwxNTEsMTUyLDE1MywxNTQsMTU1LDE1NiwxNTcsMTU4LDE1OSwxNjAsMTYxLDE2MiwxNjMsMTY0LDE2NSwxNjYsMTY3LDE2OCwxNjksMTcwLDE3MSwxNzIsMTczLDE3NCwxNzUsMTc2LDE3NywxNzgsMTc5LDE4MCwxODEsMTgyLDE4MywxODQsMTg1LDE4NiwxODcsMTg4LDE4OSwxOTAsMTkxLDE5MiwxOTMsMTk0LDE5NSwxOTYsMTk3LDE5OCwxOTksMjAwLDIwMSwyMDIsMjAzLDIwNCwyMDUsMjA2LDIwNywyMDgsMjA5LDIxMCwyMTEsMjEyLDIxMywyMTQsMjE1LDIxNiwyMTcsMjE4LDIxOSwyMjAsMjIxLDIyMiwyMjMsMjI0LDIyNSwyMjYsMjI3XX0seyJLZXkiOjAsIlZhbHVlIjpbMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAsMzEsMzIsMzMsMzQsMzUsMzYsMzcsMzgsMzksNDAsNDEsNDMsNDQsNDUsNDYsNDcsNDgsNDksNTAsNTEsNTIsNTMsNTQsNTUsNTYsNTcsNTgsNTksNjAsNjEsNjIsNjMsNjQsNjUsNjYsNjcsNjgsNjksNzAsNzEsNzIsNzMsNzQsNzUsNzYsNzcsNzgsNzksODAsODEsODIsODMsODQsODUsODYsODcsODgsODksOTAsOTEsOTIsOTMsOTQsOTUsOTYsOTcsOTgsOTksMTAwLDEwMSwxMDIsMTAzLDEwNCwxMDUsMTA2LDEwNywxMDgsMTA5LDExMCwxMTEsMTEyLDExMywxMTQsMTE1LDExNiwxMTcsMTE4LDExOSwxMjAsMTIxLDEyMiwxMjMsMTI0LDEyNSwxMjYsMTI3LDEyOCwxMjksMTMwLDEzMSwxMzIsMTMzLDEzNCwxMzUsMTM2LDEzNywxMzgsMTM5LDE0MCwxNDEsMTQyLDE0MywxNDQsMTQ1LDE0NiwxNDcsMTQ4LDE0OSwxNTAsMTUxLDE1MiwxNTMsMTU0LDE1NSwxNTYsMTU3LDE1OCwxNTksMTYwLDE2MSwxNjIsMTYzLDE2NCwxNjUsMTY2LDE2NywxNjgsMTY5LDE3MCwxNzEsMTcyLDE3MywxNzQsMTc1LDE3NiwxNzcsMTc4LDE3OSwxODAsMTgxLDE4MiwxODMsMTg0LDE4NSwxODYsMTg3LDE4OCwxODksMTkwLDE5MSwxOTIsMTkzLDE5NCwxOTUsMTk2LDE5NywxOTgsMTk5LDIwMCwyMDEsMjAyLDIwMywyMDQsMjA1LDIwNiwyMDcsMjA4LDIwOSwyMTAsMjExLDIxMiwyMTMsMjE0LDIxNSwyMTYsMjE3LDIxOCwyMTksMjIwLDIyMSwyMjIsMjIzLDIyNCwyMjUsMjI2LDIyNywyMjgsMjI5LDIzMCwyMzEsMjMyLDIzMywyMzQsMjM1LDIzNiwyMzcsMjM4LDIzOSwyNDAsMjQxLDI0MiwyNDNdfV19fQ=="
+  },
+  "skills": {
+    "Armorcrafting": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Butchery": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Constructing": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Cooking": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Defense": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Farming": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Gathering": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "MeleeCombat": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Process": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "RangedCombat": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Survival": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    },
+    "Weaponcrafting": {
+      "Level": 60,
+      "Exp": 0,
+      "ResearchTime": null,
+      "Researching": null
+    }
+  },
+  "known_skills": [],
+  "skill_points": 1000,
+  "craftest": {
+    "RecipeId": null,
+    "Materials": null,
+    "ToolItemId": null,
+    "Workbench": null,
+    "ReformSlotIndex": null
+  },
+  "active_pet": {
+    "EntityId": null,
+    "EntityType": 0,
+    "IsAlive": false,
+    "Move": null,
+    "Survival": {
+      "EntityId": null,
+      "Life": null,
+      "Gauges": null
+    },
+    "PetData": null
+  },
+  "position": {
+    "x": 0.0,
+    "y": 0.0
+  }
+}

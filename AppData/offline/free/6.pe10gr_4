@@ -1,0 +1,144 @@
+{
+  "player_slot": 6,
+  "terrain_id": "pe10gr_4",
+  "artifacts": {
+    "ee43125f-278a-4836-84c7-6889a6ba1cd4": {
+      "EntityId": "ee43125f-278a-4836-84c7-6889a6ba1cd4",
+      "EntityType": 7001,
+      "IsAlive": false,
+      "Tile": {
+        "x": 163,
+        "y": 57
+      },
+      "Size": {
+        "x": 3,
+        "y": 3
+      },
+      "Height": 0,
+      "Floor": null,
+      "Stories": null,
+      "HasRoof": null,
+      "Rotation": 0,
+      "Display": {
+        "EntityId": "ee43125f-278a-4836-84c7-6889a6ba1cd4",
+        "Condition": 0,
+        "Color": null,
+        "Parts": {
+          "common": "dock_01_wood"
+        },
+        "Textures": null,
+        "Decorations": null,
+        "AddOns": null,
+        "Crop": null,
+        "PetEntityTypes": null,
+        "Effect": null,
+        "Yaw": null,
+        "IndoorColor": null,
+        "Music": null,
+        "Animations": null,
+        "MannequinInfo": null
+      },
+      "Tags": {
+        "EntityId": null,
+        "_Tags": null
+      },
+      "States": {
+        "EntityId": null,
+        "Durability": {
+          "min": 0.0,
+          "max": 1.0,
+          "cur": 1.0
+        },
+        "BuildingState": 2,
+        "RepairImmediateCost": null,
+        "Repairement": null,
+        "Postprocess": null,
+        "GateOpened": false,
+        "Scribble": null,
+        "Trap": null,
+        "Farming": null,
+        "Home": null,
+        "Cage": null,
+        "DomesticCage": null,
+        "Crack": null,
+        "StoneCrack": null,
+        "Effector": null,
+        "Inventory": null,
+        "Stats": null,
+        "InteriorSet": null,
+        "InteriorMood": null,
+        "Access": null,
+        "Catapult": null,
+        "Defensive": null,
+        "Level": 0,
+        "MaxHealth": 0.0,
+        "ChangedName": null,
+        "Sprinkler": null,
+        "Warpaccelerator": null,
+        "Bandstand": null
+      },
+      "FounderEntityId": null
+    }
+  },
+  "artifact_addOns": {},
+  "artifact_mannequins": {},
+  "added_natural": [],
+  "removed_natural": [
+    {
+      "x": 163,
+      "y": 52
+    }
+  ],
+  "grazed_pet_list": [],
+  "garden": null,
+  "persistent": false,
+  "collected_from": {
+    "163, 52": {
+      "EntityId": "",
+      "CollectibleId": "bonepile_small_blacken",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 43,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 7,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "163, 56": {
+      "EntityId": "",
+      "CollectibleId": "harpoon_fishing_point_ocean",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 7,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    }
+  },
+  "action_timer": {},
+  "pet_list": [],
+  "pet_inventories": {},
+  "box_inventories": {},
+  "wild_animal_list": []
+}

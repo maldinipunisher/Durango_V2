@@ -1,0 +1,533 @@
+{
+  "player_slot": 6,
+  "terrain_id": "pe10gr_4",
+  "artifacts": {
+    "ee43125f-278a-4836-84c7-6889a6ba1cd4": {
+      "EntityId": "ee43125f-278a-4836-84c7-6889a6ba1cd4",
+      "EntityType": 7001,
+      "IsAlive": false,
+      "Tile": {
+        "x": 163,
+        "y": 57
+      },
+      "Size": {
+        "x": 3,
+        "y": 3
+      },
+      "Height": 0,
+      "Floor": null,
+      "Stories": null,
+      "HasRoof": null,
+      "Rotation": 0,
+      "Display": {
+        "EntityId": "ee43125f-278a-4836-84c7-6889a6ba1cd4",
+        "Condition": 0,
+        "Color": null,
+        "Parts": {
+          "common": "dock_01_wood"
+        },
+        "Textures": null,
+        "Decorations": null,
+        "AddOns": null,
+        "Crop": null,
+        "PetEntityTypes": null,
+        "Effect": null,
+        "Yaw": null,
+        "IndoorColor": null,
+        "Music": null,
+        "Animations": null,
+        "MannequinInfo": null
+      },
+      "Tags": {
+        "EntityId": null,
+        "_Tags": null
+      },
+      "States": {
+        "EntityId": null,
+        "Durability": {
+          "min": 0.0,
+          "max": 1.0,
+          "cur": 1.0
+        },
+        "BuildingState": 2,
+        "RepairImmediateCost": null,
+        "Repairement": null,
+        "Postprocess": null,
+        "GateOpened": false,
+        "Scribble": null,
+        "Trap": null,
+        "Farming": null,
+        "Home": null,
+        "Cage": null,
+        "DomesticCage": null,
+        "Crack": null,
+        "StoneCrack": null,
+        "Effector": null,
+        "Inventory": null,
+        "Stats": null,
+        "InteriorSet": null,
+        "InteriorMood": null,
+        "Access": null,
+        "Catapult": null,
+        "Defensive": null,
+        "Level": 0,
+        "MaxHealth": 0.0,
+        "ChangedName": null,
+        "Sprinkler": null,
+        "Warpaccelerator": null,
+        "Bandstand": null
+      },
+      "FounderEntityId": null
+    }
+  },
+  "artifact_addOns": {},
+  "artifact_mannequins": {},
+  "added_natural": [],
+  "removed_natural": [
+    {
+      "x": 163,
+      "y": 52
+    },
+    {
+      "x": 151,
+      "y": 72
+    },
+    {
+      "x": 149,
+      "y": 72
+    }
+  ],
+  "grazed_pet_list": [],
+  "garden": null,
+  "persistent": false,
+  "collected_from": {
+    "163, 52": {
+      "EntityId": "",
+      "CollectibleId": "bonepile_small_blacken",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 43,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 7,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "163, 56": {
+      "EntityId": "",
+      "CollectibleId": "harpoon_fishing_point_ocean",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 7,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "149, 65": {
+      "EntityId": "",
+      "CollectibleId": "grass_reed",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 16,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "clothes_officeworker",
+          "Level": 16,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "sword_onehand_bone_02",
+          "Level": 16,
+          "Name": "뼈솟칼",
+          "Icon": "weapon_sword_onehand_bone_2",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "151, 72": {
+      "EntityId": "",
+      "CollectibleId": "stone",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 52,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 8,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "clothes_officeworker",
+          "Level": 52,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 8,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "sword_onehand_bone_02",
+          "Level": 52,
+          "Name": "뼈솟칼",
+          "Icon": "weapon_sword_onehand_bone_2",
+          "Amount": 8,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "149, 72": {
+      "EntityId": "",
+      "CollectibleId": "rock",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 26,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 3,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "clothes_officeworker",
+          "Level": 26,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 3,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "sword_onehand_bone_02",
+          "Level": 26,
+          "Name": "뼈솟칼",
+          "Icon": "weapon_sword_onehand_bone_2",
+          "Amount": 3,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "148, 72": {
+      "EntityId": "",
+      "CollectibleId": "grass_reed",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "sword_onehand_bone_02",
+          "Level": 60,
+          "Name": "뼈솟칼",
+          "Icon": "weapon_sword_onehand_bone_2",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "149, 66": {
+      "EntityId": "",
+      "CollectibleId": "rock",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 3,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 3,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "sword_onehand_bone_02",
+          "Level": 60,
+          "Name": "뼈솟칼",
+          "Icon": "weapon_sword_onehand_bone_2",
+          "Amount": 3,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "148, 62": {
+      "EntityId": "",
+      "CollectibleId": "bush_feathertree",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 17,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "clothes_officeworker",
+          "Level": 17,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "sword_onehand_bone_02",
+          "Level": 17,
+          "Name": "뼈솟칼",
+          "Icon": "weapon_sword_onehand_bone_2",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    },
+    "147, 59": {
+      "EntityId": "",
+      "CollectibleId": "bush_feathertree",
+      "Size": null,
+      "Generators": [
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "clothes_officeworker",
+          "Level": 60,
+          "Name": "정장",
+          "Icon": "clothes_officelook",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        },
+        {
+          "Id": "sword_onehand_bone_02",
+          "Level": 60,
+          "Name": "뼈솟칼",
+          "Icon": "weapon_sword_onehand_bone_2",
+          "Amount": 2,
+          "Effort": 14.0,
+          "Duration": 2.0,
+          "ToolRequirements": {
+            "bare_hands": 1
+          },
+          "Enabled": true
+        }
+      ],
+      "CriticalGenerator": null
+    }
+  },
+  "action_timer": {},
+  "pet_list": [
+    {
+      "EntityId": "eee5d92f-7e4b-449d-95fb-8fa4158739db",
+      "EntityType": 3064,
+      "TamerEntityId": "9703ef58-8566-410c-9681-aecc22f65e43",
+      "Name": "브라키오사우루스",
+      "Rank": 14,
+      "Generation": 0,
+      "IsBoarding": false,
+      "IsSpawned": false,
+      "Stat": {
+        "PlaybackRate": 1.13966012,
+        "Size": 120,
+        "Taste": null,
+        "InventoryUsage": 0,
+        "Life": {
+          "min": 0.0,
+          "max": 15240.0,
+          "cur": 15240.0
+        },
+        "Hungry": {
+          "min": 0.0,
+          "max": 15240.0,
+          "cur": 15240.0
+        },
+        "EatableTags": null,
+        "Tags": null,
+        "LastMilestoneAccepted": false,
+        "RetryCost": null,
+        "IsOld": false,
+        "AgingSince": 1622435569.6148567,
+        "AgingUntil": 3616548069.6148567,
+        "GrazedAt": null
+      },
+      "Statistics": {
+        "Level": 60,
+        "Exp": 32767,
+        "RequiredExp": 0,
+        "DerivedAbilities": {
+          "Speed": 220.0,
+          "InventoryCapacity": 500.0,
+          "Attack": 777.0,
+          "Defense": 777.0,
+          "Accuracy": 777.0
+        },
+        "MilestonesInformation": null,
+        "AvailableActiveSkill": null
+      },
+      "CageInfo": null
+    }
+  ],
+  "pet_inventories": {
+    "2f3017eb-7215-4091-956c-c4c98487a5fe": []
+  },
+  "box_inventories": {},
+  "wild_animal_list": []
+}

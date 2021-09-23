@@ -1,0 +1,229 @@
+{
+  "player_slot": 6,
+  "item_gen_dict": {
+    "harpoon_fishing_point_ocean": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 47,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 7,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ],
+    "bonepile_small_blacken": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 43,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 7,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ],
+    "rock_volcano": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 26,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 3,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ],
+    "grass_reed_lavaside": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 57,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 9,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ],
+    "grass_reed": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 16,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 2,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "clothes_officeworker",
+        "Level": 16,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 2,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "sword_onehand_bone_02",
+        "Level": 16,
+        "Name": "뼈솟칼",
+        "Icon": "weapon_sword_onehand_bone_2",
+        "Amount": 2,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ],
+    "stone": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 52,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 8,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "clothes_officeworker",
+        "Level": 52,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 8,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "sword_onehand_bone_02",
+        "Level": 52,
+        "Name": "뼈솟칼",
+        "Icon": "weapon_sword_onehand_bone_2",
+        "Amount": 8,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ],
+    "rock": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 26,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 3,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "clothes_officeworker",
+        "Level": 26,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 3,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "sword_onehand_bone_02",
+        "Level": 26,
+        "Name": "뼈솟칼",
+        "Icon": "weapon_sword_onehand_bone_2",
+        "Amount": 3,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ],
+    "bush_feathertree": [
+      {
+        "Id": "clothes_officeworker",
+        "Level": 17,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 2,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "clothes_officeworker",
+        "Level": 17,
+        "Name": "정장",
+        "Icon": "clothes_officelook",
+        "Amount": 2,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      },
+      {
+        "Id": "sword_onehand_bone_02",
+        "Level": 17,
+        "Name": "뼈솟칼",
+        "Icon": "weapon_sword_onehand_bone_2",
+        "Amount": 2,
+        "Effort": 14.0,
+        "Duration": 2.0,
+        "ToolRequirements": {
+          "bare_hands": 1
+        },
+        "Enabled": true
+      }
+    ]
+  }
+}

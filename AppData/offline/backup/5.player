@@ -1,0 +1,329 @@
+{
+  "player_slot": 5,
+  "appear_player": {
+    "EntityId": "ef8384fb-827f-4619-aea6-ed83b00f4bc7",
+    "EntityType": 1000,
+    "IsAlive": true,
+    "Name": "MKSG 1125",
+    "Freq": 0,
+    "Level": 60,
+    "Title": {
+      "EntityId": "ef8384fb-827f-4619-aea6-ed83b00f4bc7",
+      "TitleId": null,
+      "_Title": ""
+    },
+    "Member": {
+      "EntityId": "ef8384fb-827f-4619-aea6-ed83b00f4bc7",
+      "ClanId": "",
+      "ClanName": "",
+      "RoleId": -1,
+      "ApplyingClanId": null
+    },
+    "Display": {
+      "EntityId": "ef8384fb-827f-4619-aea6-ed83b00f4bc7",
+      "DefaultBody": "Models/PC/Male/Body/m_body_nothing.FBX",
+      "DefaultInner": "Models/PC/Male/Inner/m_inner_basic.FBX",
+      "DefaultHead": null,
+      "DefaultHair": null,
+      "Hair": "Models/PC/Male/Hair/m_hair_bear",
+      "Body": "Models/PC/Male/Body/m_body_beginner_leaf.fbx",
+      "Head": null,
+      "Equip": null,
+      "Beard": null,
+      "BodyColor": [
+        "204D21",
+        "204D21",
+        "B2B89B"
+      ],
+      "HeadColor": [
+        "FF0000",
+        "FFFFFF",
+        "0000FF"
+      ],
+      "EquipColor": null,
+      "SkinColor": "E8CECE",
+      "HairColor": "521C09",
+      "EyeColor": "773336",
+      "LipColor": "EB8686",
+      "Portrait": 8,
+      "PortraitBg": 4,
+      "PortraitBgColor": "412A22",
+      "PortraitIcon": null,
+      "VoiceType": 1,
+      "BodySize": 1.03734231,
+      "Invisible": false,
+      "WeaponInfo": {
+        "Projectile": null,
+        "ProjectileSpeed": null,
+        "DetonateDelay": null,
+        "WeaponFramework": null
+      },
+      "BoardingOn": 0,
+      "BoardingTime": {
+        "Since": null,
+        "Until": null
+      },
+      "VehicleEntityId": null,
+      "Accessory": null
+    },
+    "Move": {
+      "EntityId": "ef8384fb-827f-4619-aea6-ed83b00f4bc7",
+      "Movements": [
+        {
+          "MotionName": "Barehand_Stand",
+          "MotionOption": 34,
+          "PlaybackRate": 1.0,
+          "RotSpeed": 540.0,
+          "Path": [
+            {
+              "Position": {
+                "x": 9071.0,
+                "y": 26276.0
+              },
+              "Yaw": 149.120422,
+              "Time": 1584370985.7614608,
+              "Floor": 0,
+              "Height": 0.0
+            }
+          ]
+        }
+      ]
+    },
+    "Survival": {
+      "EntityId": "ef8384fb-827f-4619-aea6-ed83b00f4bc7",
+      "Life": {
+        "min": 0.0,
+        "max": 100.0,
+        "cur": 100.0
+      },
+      "Gauges": {
+        "stamina": {
+          "min": 0.0,
+          "max": 100.0,
+          "cur": 100.0
+        },
+        "fatigue": {
+          "min": 0.0,
+          "max": 100.0,
+          "cur": 0.0
+        }
+      }
+    },
+    "Musician": null,
+    "RescueRequested": false
+  },
+  "player_info": {
+    "player_level": 60,
+    "disconnected_at": 1584370910.1138761,
+    "player_name": "MKSG 1125",
+    "player_entity_id": "ef8384fb-827f-4619-aea6-ed83b00f4bc7",
+    "deletes_at": null
+  },
+  "inventory_items": [
+    {
+      "Id": "cadd7562-1d84-46a8-8b5d-117e5490fa2a",
+      "Name": "정장",
+      "Description": "사무직의 기본 복장. \"아침마다 정장은 군단이 되어 행진한다.\"",
+      "Icon": "clothes_officelook",
+      "SubIcon": null,
+      "Prototype": "clothes_officeworker",
+      "Level": 1,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "4A4C50",
+      "ColorG": "E6E1D2",
+      "ColorB": "2C2521",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 1
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 1
+        },
+        {
+          "Id": "modern_officeworker",
+          "Level": 1
+        },
+        {
+          "Id": "clothes",
+          "Level": 1
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_officelook.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_officelook.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "28362f7c-cb1b-4ed4-9476-e49097b1b463",
+      "Name": "나뭇잎 옷",
+      "Description": "나뭇잎으로 만든 옷. \"관광지가 아닌 데서 보는 건 처음이다.\"",
+      "Icon": "clothes_beginner_leaf",
+      "SubIcon": null,
+      "Prototype": "clothes_leaf_01",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "204D21",
+      "ColorG": "204D21",
+      "ColorB": "B2B89B",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "leaf",
+          "Level": 60
+        },
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "sheet_normal",
+          "Level": 60
+        },
+        {
+          "Id": "heat_resistant",
+          "Level": 60
+        },
+        {
+          "Id": "burnable",
+          "Level": 60
+        },
+        {
+          "Id": "clothes",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "Models/PC/Female/Body/f_body_beginner_leaf.fbx",
+            "male_model": "Models/PC/Male/Body/m_body_beginner_leaf.fbx",
+            "slot": "body"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    },
+    {
+      "Id": "067fa84b-dfa1-46c9-b020-dbf9f7b4f0fa",
+      "Name": "누군가의 사과",
+      "Description": "먹을 수 없지만 특별해 보이는 사과. <em>품</em> 안에 간직하자. <em>\"함께 해주셔서 고맙습니다.\"</em>",
+      "Icon": "icon_apple_sunset",
+      "SubIcon": null,
+      "Prototype": "apple_sunset",
+      "Level": 60,
+      "OriginalLevel": 0,
+      "ModifiableCount": 0,
+      "ModifiedCount": 0,
+      "Size": 1,
+      "Durability": {
+        "min": 0.0,
+        "max": 1.0,
+        "cur": 1.0
+      },
+      "ColorR": "B6001F",
+      "ColorG": "E9B053",
+      "ColorB": "4B7607",
+      "Unstable": false,
+      "RepairRequirement": null,
+      "FounderId": null,
+      "FounderCategory": "",
+      "Tags": [
+        {
+          "Id": "armor",
+          "Level": 60
+        },
+        {
+          "Id": "pocket",
+          "Level": 60
+        },
+        {
+          "Id": "max_energy_incr",
+          "Level": 60
+        }
+      ],
+      "TagModifications": null,
+      "Performance": [
+        {
+          "Id": "armor",
+          "Name": null,
+          "Icon": null,
+          "Nums": null,
+          "Strs": {
+            "female_model": "None",
+            "male_model": "None",
+            "slot": "precious"
+          }
+        }
+      ],
+      "Ext": null,
+      "CollectibleId": null,
+      "GeneratorId": null,
+      "EmotionalMotions": null,
+      "PioneerCost": 0.0,
+      "Tradable": false,
+      "ReformSlots": null
+    }
+  ],
+  "equipped_items": {
+    "body": "28362f7c-cb1b-4ed4-9476-e49097b1b463",
+    "precious": "067fa84b-dfa1-46c9-b020-dbf9f7b4f0fa"
+  },
+  "musics": null,
+  "storage": {
+    "encyclopedia": "eyJNZW1vIjp7Ik1lbW9zIjpbeyJLZXkiOjEsIlZhbHVlIjpbMCwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiwxMywxNCwxNSwxNiwxNywxOCwxOSwyMCwyMSwyMiwyMywyNCwyNSwyNiwyNywyOCwyOSwzMCwzMSwzMiwzMywzNCwzNSwzNiwzNywzOCwzOSw0MCw0MSw0Miw0Myw0NCw0NSw0Niw0Nyw0OCw0OSw1MCw1MSw1Miw1Myw1NCw1NSw1Niw1Nyw1OCw1OSw2MCw2MSw2Miw2Myw2NCw2NSw2Niw2Nyw2OCw2OSw3MCw3MSw3Miw3Myw3NCw3NSw3Niw3Nyw3OCw3OSw4MCw4MSw4Miw4Myw4NCw4NSw4Niw4Nyw4OCw4OSw5MCw5MSw5Miw5Myw5NCw5NSw5Niw5Nyw5OCw5OSwxMDAsMTAxLDEwMiwxMDMsMTA0LDEwNSwxMDYsMTA3LDEwOCwxMDksMTEwLDExMSwxMTIsMTEzLDExNCwxMTUsMTE2LDExNywxMTgsMTE5LDEyMCwxMjEsMTIyLDEyMywxMjQsMTI1LDEyNiwxMjcsMTI4LDEyOSwxMzAsMTMxLDEzMiwxMzMsMTM0LDEzNSwxMzYsMTM3LDEzOCwxMzksMTQwLDE0MSwxNDIsMTQzLDE0NCwxNDUsMTQ2LDE0NywxNDgsMTQ5LDE1MCwxNTEsMTUyLDE1MywxNTQsMTU1LDE1NiwxNTcsMTU4LDE1OSwxNjAsMTYxLDE2MiwxNjMsMTY0LDE2NSwxNjYsMTY3LDE2OCwxNjksMTcwLDE3MSwxNzIsMTczLDE3NCwxNzUsMTc2LDE3NywxNzgsMTc5LDE4MCwxODEsMTgyLDE4MywxODQsMTg1LDE4NiwxODcsMTg4LDE4OSwxOTAsMTkxLDE5MiwxOTMsMTk0LDE5NSwxOTYsMTk3LDE5OCwxOTksMjAwLDIwMSwyMDIsMjAzLDIwNCwyMDUsMjA2LDIwNywyMDgsMjA5LDIxMCwyMTEsMjEyLDIxMywyMTQsMjE1LDIxNiwyMTcsMjE4LDIxOSwyMjAsMjIxLDIyMiwyMjMsMjI0LDIyNSwyMjYsMjI3XX0seyJLZXkiOjAsIlZhbHVlIjpbMSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsMTMsMTQsMTUsMTYsMTcsMTgsMTksMjAsMjEsMjIsMjMsMjQsMjUsMjYsMjcsMjgsMjksMzAsMzEsMzIsMzMsMzQsMzUsMzYsMzcsMzgsMzksNDAsNDEsNDMsNDQsNDUsNDYsNDcsNDgsNDksNTAsNTEsNTIsNTMsNTQsNTUsNTYsNTcsNTgsNTksNjAsNjEsNjIsNjMsNjQsNjUsNjYsNjcsNjgsNjksNzAsNzEsNzIsNzMsNzQsNzUsNzYsNzcsNzgsNzksODAsODEsODIsODMsODQsODUsODYsODcsODgsODksOTAsOTEsOTIsOTMsOTQsOTUsOTYsOTcsOTgsOTksMTAwLDEwMSwxMDIsMTAzLDEwNCwxMDUsMTA2LDEwNywxMDgsMTA5LDExMCwxMTEsMTEyLDExMywxMTQsMTE1LDExNiwxMTcsMTE4LDExOSwxMjAsMTIxLDEyMiwxMjMsMTI0LDEyNSwxMjYsMTI3LDEyOCwxMjksMTMwLDEzMSwxMzIsMTMzLDEzNCwxMzUsMTM2LDEzNywxMzgsMTM5LDE0MCwxNDEsMTQyLDE0MywxNDQsMTQ1LDE0NiwxNDcsMTQ4LDE0OSwxNTAsMTUxLDE1MiwxNTMsMTU0LDE1NSwxNTYsMTU3LDE1OCwxNTksMTYwLDE2MSwxNjIsMTYzLDE2NCwxNjUsMTY2LDE2NywxNjgsMTY5LDE3MCwxNzEsMTcyLDE3MywxNzQsMTc1LDE3NiwxNzcsMTc4LDE3OSwxODAsMTgxLDE4MiwxODMsMTg0LDE4NSwxODYsMTg3LDE4OCwxODksMTkwLDE5MSwxOTIsMTkzLDE5NCwxOTUsMTk2LDE5NywxOTgsMTk5LDIwMCwyMDEsMjAyLDIwMywyMDQsMjA1LDIwNiwyMDcsMjA4LDIwOSwyMTAsMjExLDIxMiwyMTMsMjE0LDIxNSwyMTYsMjE3LDIxOCwyMTksMjIwLDIyMSwyMjIsMjIzLDIyNCwyMjUsMjI2LDIyNywyMjgsMjI5LDIzMCwyMzEsMjMyLDIzMywyMzQsMjM1LDIzNiwyMzcsMjM4LDIzOSwyNDAsMjQxLDI0MiwyNDNdfV19fQ==",
+    "editable_guide_progress": "eyJDb21wbGV0ZWRFdmVudHMiOnsibm9ybWFsX2Zsb3ciOlsiY2hhcmxpZXNfd2VsY29tZV9lZGl0YWJsZSIsInN5c3RlbV9pbmZvX2VkaXRhYmxlIiwiYmxhbmsiXX0sIkxhc3REb2dQT0lUaWxlIjp7IngiOjAuMCwieSI6MC4wLCJtYWduaXR1ZGUiOjAuMCwic3FyTWFnbml0dWRlIjowLjB9LCJMYXN0RG9nR3VpZGVTdGF0ZSI6MCwiTGFzdFJldHVybmVyQ291bnQiOjAsIkxhc3ROb21hZENvdW50IjowfQ=="
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "player_slot": 6,
+  "terrain_id": "ua60vol",
+  "artifacts": {},
+  "artifact_addOns": {},
+  "artifact_mannequins": {},
+  "added_natural": [],
+  "removed_natural": [],
+  "grazed_pet_list": [],
+  "garden": null,
+  "persistent": false,
+  "collected_from": {},
+  "action_timer": {},
+  "pet_list": [],
+  "pet_inventories": {},
+  "box_inventories": {},
+  "wild_animal_list": []
+}
